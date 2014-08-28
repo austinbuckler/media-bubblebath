@@ -1,0 +1,15 @@
+extends layout
+
+block content
+
+
+  #bg-overlay
+  #title 
+    p= title
+
+  form(method="post", action="/").form
+    input(type="text", name="searchquery" class="search")
+    input(type="submit" class="button")
+
+  
+  script(type='text/javascript').

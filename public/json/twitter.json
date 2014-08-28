@@ -1,0 +1,2803 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:43 +0000 2014",
+            "id": 505045577001078800,
+            "id_str": "505045577001078784",
+            "text": "The spaces of confinement\nIK-00 exhibition, in Venice, looks at prison architecture - http://t.co/gqetlL91RS @DomusWeb #architecture",
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 46748716,
+                "id_str": "46748716",
+                "name": "Hakan Tuzun Sengun",
+                "screen_name": "moleskind",
+                "location": "İstanbul",
+                "description": "Architect & Illustrator",
+                "url": "http://t.co/NUW4QpTOS3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NUW4QpTOS3",
+                                "expanded_url": "http://hakantuzunsengun.blogspot.com",
+                                "display_url": "hakantuzunsengun.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1192,
+                "friends_count": 699,
+                "listed_count": 21,
+                "created_at": "Fri Jun 12 21:06:29 +0000 2009",
+                "favourites_count": 5890,
+                "utc_offset": 10800,
+                "time_zone": "Istanbul",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5086,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/852600347/68a111f7ebec0cb374a8c9f48fc984b0.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/852600347/68a111f7ebec0cb374a8c9f48fc984b0.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3567591340/619e63520db124199cbf7adc68ffe80e_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3567591340/619e63520db124199cbf7adc68ffe80e_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46748716/1394293496",
+                "profile_link_color": "60B3D1",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FACB0F",
+                "profile_text_color": "6B676B",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            119,
+                            132
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/gqetlL91RS",
+                        "expanded_url": "http://www.domusweb.it/en/art/2014/08/08/the_spaces_of_confinement.html",
+                        "display_url": "domusweb.it/en/art/2014/08…",
+                        "indices": [
+                            86,
+                            108
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "DomusWeb",
+                        "name": "Domus",
+                        "id": 20332679,
+                        "id_str": "20332679",
+                        "indices": [
+                            109,
+                            118
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "pt"
+            },
+            "created_at": "Thu Aug 28 17:33:39 +0000 2014",
+            "id": 505045560639107100,
+            "id_str": "505045560639107072",
+            "text": "Photo: #Valencia #cathedral #old #roof #frombeneath #brickporn #igspain #igaddict #iphoneonly #architecture... http://t.co/0kS3qPnza6",
+            "source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 433757888,
+                "id_str": "433757888",
+                "name": "GreenYellow",
+                "screen_name": "GreenYellow4",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 19,
+                "friends_count": 121,
+                "listed_count": 0,
+                "created_at": "Sun Dec 11 00:09:09 +0000 2011",
+                "favourites_count": 26,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 710,
+                "lang": "nl",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2546117810/ly0g5llnmfrxtgfhlgvn_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2546117810/ly0g5llnmfrxtgfhlgvn_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/433757888/1389483014",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Valencia",
+                        "indices": [
+                            7,
+                            16
+                        ]
+                    },
+                    {
+                        "text": "cathedral",
+                        "indices": [
+                            17,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "old",
+                        "indices": [
+                            28,
+                            32
+                        ]
+                    },
+                    {
+                        "text": "roof",
+                        "indices": [
+                            33,
+                            38
+                        ]
+                    },
+                    {
+                        "text": "frombeneath",
+                        "indices": [
+                            39,
+                            51
+                        ]
+                    },
+                    {
+                        "text": "brickporn",
+                        "indices": [
+                            52,
+                            62
+                        ]
+                    },
+                    {
+                        "text": "igspain",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "igaddict",
+                        "indices": [
+                            72,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "iphoneonly",
+                        "indices": [
+                            82,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            94,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/0kS3qPnza6",
+                        "expanded_url": "http://tmblr.co/ZFgIUw1PQnQkU",
+                        "display_url": "tmblr.co/ZFgIUw1PQnQkU",
+                        "indices": [
+                            111,
+                            133
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:39 +0000 2014",
+            "id": 505045559581757440,
+            "id_str": "505045559581757440",
+            "text": "House Plot 75 by Office Winhov http://t.co/j3fidD2qtX #Architecture",
+            "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 325566376,
+                "id_str": "325566376",
+                "name": "I Like Architecture",
+                "screen_name": "ILikeArch",
+                "location": "London, United Kingdom",
+                "description": "Shaping the future one building at a time.",
+                "url": "http://t.co/i71vknYYL8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/i71vknYYL8",
+                                "expanded_url": "http://www.ilikearchitecture.net",
+                                "display_url": "ilikearchitecture.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28380,
+                "friends_count": 93,
+                "listed_count": 476,
+                "created_at": "Tue Jun 28 14:20:34 +0000 2011",
+                "favourites_count": 10036,
+                "utc_offset": 7200,
+                "time_zone": "Madrid",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7999,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000160471393/a331c001f2ab06c22a4cc41fdc3922a9_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000160471393/a331c001f2ab06c22a4cc41fdc3922a9_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/325566376/1404459410",
+                "profile_link_color": "00ADFF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Architecture",
+                        "indices": [
+                            54,
+                            67
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/j3fidD2qtX",
+                        "expanded_url": "http://ilikear.ch/1pMxUWZ",
+                        "display_url": "ilikear.ch/1pMxUWZ",
+                        "indices": [
+                            31,
+                            53
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:37 +0000 2014",
+            "id": 505045552464003100,
+            "id_str": "505045552464003072",
+            "text": "Don't forget to vote for #Chicago as @10Best's Best International Skyline! http://t.co/zjkCAo5bkd #architecture",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 140939923,
+                "id_str": "140939923",
+                "name": "Kinzie Hotel",
+                "screen_name": "KinzieHotel",
+                "location": "20 W. Kinzie Chicago, IL 60654",
+                "description": "A luxury boutique hotel in #RiverNorth. Recipient of TripAdvisor's Certificate of Excellence 2014. Voted Best Boutique Hotel in Chicago by @Suntimes_Splash.",
+                "url": "http://t.co/oRZpb0tNWd",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/oRZpb0tNWd",
+                                "expanded_url": "http://www.kinziehotel.com/",
+                                "display_url": "kinziehotel.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1964,
+                "friends_count": 1920,
+                "listed_count": 49,
+                "created_at": "Thu May 06 19:18:36 +0000 2010",
+                "favourites_count": 2817,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6312,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000119992277/1fe2f4af27a5fa24e78dcaed960d7865.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000119992277/1fe2f4af27a5fa24e78dcaed960d7865.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/481862112348614656/NzkIM2aH_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/481862112348614656/NzkIM2aH_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/140939923/1403719873",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Chicago",
+                        "indices": [
+                            25,
+                            33
+                        ]
+                    },
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            98,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zjkCAo5bkd",
+                        "expanded_url": "http://www.10best.com/awards/travel/best-international-skyline/chicago/#skyline",
+                        "display_url": "10best.com/awards/travel/…",
+                        "indices": [
+                            75,
+                            97
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "10Best",
+                        "name": "10Best",
+                        "id": 17389704,
+                        "id_str": "17389704",
+                        "indices": [
+                            37,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:36 +0000 2014",
+            "id": 505045546768547840,
+            "id_str": "505045546768547840",
+            "text": "New virtual experience launched by Google allows users to explore #architecture of Alvar Aalto from afar http://t.co/uSZiAQG1ID @ArchDaily",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 149166935,
+                "id_str": "149166935",
+                "name": "Neoscape",
+                "screen_name": "NeoscapeInc",
+                "location": "Boston | NY",
+                "description": "Neoscape is a studio of creatives and real estate professionals. We create and communicate value by building brand experiences for architecture and real estate.",
+                "url": "http://t.co/0rLbhjAEUg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/0rLbhjAEUg",
+                                "expanded_url": "http://www.neoscape.com",
+                                "display_url": "neoscape.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1441,
+                "friends_count": 699,
+                "listed_count": 49,
+                "created_at": "Fri May 28 15:49:59 +0000 2010",
+                "favourites_count": 84,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4479,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/394060791/NEOSCAPE_LOGO-TAGLINE_white.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/394060791/NEOSCAPE_LOGO-TAGLINE_white.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2229677852/Unknown_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2229677852/Unknown_normal.png",
+                "profile_link_color": "BD0A0A",
+                "profile_sidebar_border_color": "DB1111",
+                "profile_sidebar_fill_color": "C4C0C0",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            66,
+                            79
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/uSZiAQG1ID",
+                        "expanded_url": "http://bit.ly/1plzJuT",
+                        "display_url": "bit.ly/1plzJuT",
+                        "indices": [
+                            105,
+                            127
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ArchDaily",
+                        "name": "ArchDaily",
+                        "id": 14362241,
+                        "id_str": "14362241",
+                        "indices": [
+                            128,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:36 +0000 2014",
+            "id": 505045545619324900,
+            "id_str": "505045545619324928",
+            "text": "RT @globe58: Global Summit on international architecture of governance urgently needed ... More global democracy, inclusiveness and less un…",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1032389420,
+                "id_str": "1032389420",
+                "name": "peter van tuijl",
+                "screen_name": "PvanTuijl",
+                "location": "",
+                "description": "GPPAC Executive Director, working on conflict prevention globally. Views are mine. RTs do not imply endorsement.",
+                "url": "http://t.co/8wT55mUHQO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/8wT55mUHQO",
+                                "expanded_url": "http://www.gppac.net",
+                                "display_url": "gppac.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 310,
+                "friends_count": 178,
+                "listed_count": 5,
+                "created_at": "Mon Dec 24 10:33:07 +0000 2012",
+                "favourites_count": 27,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 996,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3023855994/a27cdb8fdf8e07c5aca76a62c8eedd1e_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3023855994/a27cdb8fdf8e07c5aca76a62c8eedd1e_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 13:49:59 +0000 2014",
+                "id": 504989272458690560,
+                "id_str": "504989272458690560",
+                "text": "Global Summit on international architecture of governance urgently needed ... More global democracy, inclusiveness and less unilateralism ..",
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2479859973,
+                    "id_str": "2479859973",
+                    "name": "Albert Ramdin",
+                    "screen_name": "globe58",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 34,
+                    "friends_count": 32,
+                    "listed_count": 0,
+                    "created_at": "Sat Apr 12 21:31:40 +0000 2014",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 15,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/455098482781859841/6goX8D1a_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/455098482781859841/6goX8D1a_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "globe58",
+                        "name": "Albert Ramdin",
+                        "id": 2479859973,
+                        "id_str": "2479859973",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:34 +0000 2014",
+            "id": 505045540178886660,
+            "id_str": "505045540178886656",
+            "text": "RT @Martha_Gill: \"Nasty, brutish and tall\": My @TheEconomist piece from this week's issue - on brutalism - is up  http://t.co/h0tPcmkI2S",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15204596,
+                "id_str": "15204596",
+                "name": "Graeme Wearden",
+                "screen_name": "graemewearden",
+                "location": "London/Oxford/the M40",
+                "description": "Business reporter/liveblogger at the Guardian.",
+                "url": "http://t.co/FZa1vMjqHj",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/FZa1vMjqHj",
+                                "expanded_url": "http://www.guardian.co.uk/business/series/eurozone-crisis-live",
+                                "display_url": "guardian.co.uk/business/serie…",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8973,
+                "friends_count": 7712,
+                "listed_count": 433,
+                "created_at": "Mon Jun 23 07:01:00 +0000 2008",
+                "favourites_count": 2883,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10398,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502600455151566848/zTNF480U.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502600455151566848/zTNF480U.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/153471996/twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/153471996/twitter_normal.jpg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 15:23:05 +0000 2014",
+                "id": 505012703665340400,
+                "id_str": "505012703665340416",
+                "text": "\"Nasty, brutish and tall\": My @TheEconomist piece from this week's issue - on brutalism - is up  http://t.co/h0tPcmkI2S",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 71543212,
+                    "id_str": "71543212",
+                    "name": "Martha Gill",
+                    "screen_name": "Martha_Gill",
+                    "location": "",
+                    "description": "Currently on a fellowship at the Economist. On sabbatical from @Telegraphblogs. martharebeccagill@gmail.com",
+                    "url": "http://t.co/RP8OKnoSjI",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/RP8OKnoSjI",
+                                    "expanded_url": "http://blogs.telegraph.co.uk/technology/author/marthagilltech/",
+                                    "display_url": "blogs.telegraph.co.uk/technology/aut…",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3205,
+                    "friends_count": 1325,
+                    "listed_count": 71,
+                    "created_at": "Fri Sep 04 14:09:17 +0000 2009",
+                    "favourites_count": 428,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3690,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/454652472850513921/yc3Rby_g_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/454652472850513921/yc3Rby_g_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/71543212/1401138679",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/h0tPcmkI2S",
+                            "expanded_url": "http://econ.st/1tOlGgV",
+                            "display_url": "econ.st/1tOlGgV",
+                            "indices": [
+                                97,
+                                119
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "TheEconomist",
+                            "name": "The Economist",
+                            "id": 5988062,
+                            "id_str": "5988062",
+                            "indices": [
+                                30,
+                                43
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/h0tPcmkI2S",
+                        "expanded_url": "http://econ.st/1tOlGgV",
+                        "display_url": "econ.st/1tOlGgV",
+                        "indices": [
+                            114,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Martha_Gill",
+                        "name": "Martha Gill",
+                        "id": 71543212,
+                        "id_str": "71543212",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "TheEconomist",
+                        "name": "The Economist",
+                        "id": 5988062,
+                        "id_str": "5988062",
+                        "indices": [
+                            47,
+                            60
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:29 +0000 2014",
+            "id": 505045518972493800,
+            "id_str": "505045518972493824",
+            "text": "RT @ArchDaily: Move Over, Green Walls: Living Canopy Comes to West Vancouver http://t.co/W1zJs4fn9v #architecture",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 355300410,
+                "id_str": "355300410",
+                "name": "Arselan Lakhany",
+                "screen_name": "LAKHpattiANY",
+                "location": "Atlanta, GA",
+                "description": "Man is a universe within himself, and mine is filled with creativity. Lover of art, architecture, music, and sports!!! Dirty Bird nation. ATL hoe!!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 141,
+                "friends_count": 235,
+                "listed_count": 2,
+                "created_at": "Mon Aug 15 04:12:37 +0000 2011",
+                "favourites_count": 525,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3763,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614712716/vfex4thb06kbxa0b3h1s.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614712716/vfex4thb06kbxa0b3h1s.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/430072313795842049/Ljo49n9H_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/430072313795842049/Ljo49n9H_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/355300410/1368517428",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 16:07:48 +0000 2014",
+                "id": 505023957129383940,
+                "id_str": "505023957129383937",
+                "text": "Move Over, Green Walls: Living Canopy Comes to West Vancouver http://t.co/W1zJs4fn9v #architecture",
+                "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 14362241,
+                    "id_str": "14362241",
+                    "name": "ArchDaily",
+                    "screen_name": "ArchDaily",
+                    "location": "New York",
+                    "description": "Architecture news. The best architecture design in the world, for architects by architects. Tweeted by our editors David Basulto and Vanessa Quirk.",
+                    "url": "http://t.co/8SMbr0akxA",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/8SMbr0akxA",
+                                    "expanded_url": "http://www.archdaily.com",
+                                    "display_url": "archdaily.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 212709,
+                    "friends_count": 2817,
+                    "listed_count": 5322,
+                    "created_at": "Fri Apr 11 16:27:51 +0000 2008",
+                    "favourites_count": 231,
+                    "utc_offset": -14400,
+                    "time_zone": "Santiago",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 35441,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2404984/bg_ad.gif",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2404984/bg_ad.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2445543900/arxyre3p6rp5l0kyvuw6_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2445543900/arxyre3p6rp5l0kyvuw6_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14362241/1404412411",
+                    "profile_link_color": "739CE1",
+                    "profile_sidebar_border_color": "0B69B4",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "444444",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 7,
+                "favorite_count": 4,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "architecture",
+                            "indices": [
+                                85,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/W1zJs4fn9v",
+                            "expanded_url": "http://archdai.ly/1u0k0Ql",
+                            "display_url": "archdai.ly/1u0k0Ql",
+                            "indices": [
+                                62,
+                                84
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            100,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/W1zJs4fn9v",
+                        "expanded_url": "http://archdai.ly/1u0k0Ql",
+                        "display_url": "archdai.ly/1u0k0Ql",
+                        "indices": [
+                            77,
+                            99
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ArchDaily",
+                        "name": "ArchDaily",
+                        "id": 14362241,
+                        "id_str": "14362241",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:29 +0000 2014",
+            "id": 505045517152550900,
+            "id_str": "505045517152550913",
+            "text": "RT @designboom: this 18-storey building in #australia offers both office space and a host of retail outlets http://t.co/ztSJBc95tj http://t…",
+            "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1487364174,
+                "id_str": "1487364174",
+                "name": "Daydream Creative",
+                "screen_name": "daydreamsocial",
+                "location": "Los Angeles, CA",
+                "description": "A Multimedia Design Studio.",
+                "url": "http://t.co/5Z6RocrEpW",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/5Z6RocrEpW",
+                                "expanded_url": "http://daydreamcreative.com",
+                                "display_url": "daydreamcreative.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 310,
+                "friends_count": 268,
+                "listed_count": 8,
+                "created_at": "Thu Jun 06 10:07:05 +0000 2013",
+                "favourites_count": 11,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 34681,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438226989032296448/nLqsWATh.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438226989032296448/nLqsWATh.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/470490413267054592/V2o3Hhdr_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/470490413267054592/V2o3Hhdr_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487364174/1400310786",
+                "profile_link_color": "00CCFF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 17:30:31 +0000 2014",
+                "id": 505044772382593000,
+                "id_str": "505044772382593025",
+                "text": "this 18-storey building in #australia offers both office space and a host of retail outlets http://t.co/ztSJBc95tj http://t.co/PZwcxpfMhC",
+                "source": "<a href=\"http://gremln.com\" rel=\"nofollow\">Gremln</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 24799500,
+                    "id_str": "24799500",
+                    "name": "designboom",
+                    "screen_name": "designboom",
+                    "location": "",
+                    "description": "est.1999, designboom magazine is the web's first source for the best of architecture, art, and design.",
+                    "url": "http://t.co/e4d9u8fTJY",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/e4d9u8fTJY",
+                                    "expanded_url": "http://www.designboom.com",
+                                    "display_url": "designboom.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 240954,
+                    "friends_count": 2921,
+                    "listed_count": 7178,
+                    "created_at": "Mon Mar 16 23:54:01 +0000 2009",
+                    "favourites_count": 410,
+                    "utc_offset": 7200,
+                    "time_zone": "Rome",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 31845,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FAFA05",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456329239394910208/mCO9duGj.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456329239394910208/mCO9duGj.jpeg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2488952290/rracjn6v3803d6txfpo2_normal.gif",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2488952290/rracjn6v3803d6txfpo2_normal.gif",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24799500/1398077809",
+                    "profile_link_color": "878787",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 2,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "australia",
+                            "indices": [
+                                27,
+                                37
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/ztSJBc95tj",
+                            "expanded_url": "http://www.designboom.com/architecture/grimshaw-architects-333-george-street-sydney-australia-08-28-2014/",
+                            "display_url": "designboom.com/architecture/g…",
+                            "indices": [
+                                92,
+                                114
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "media": [
+                        {
+                            "id": 505044771929612300,
+                            "id_str": "505044771929612289",
+                            "indices": [
+                                115,
+                                137
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/BwJHi1KIYAEnphg.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/BwJHi1KIYAEnphg.jpg",
+                            "url": "http://t.co/PZwcxpfMhC",
+                            "display_url": "pic.twitter.com/PZwcxpfMhC",
+                            "expanded_url": "http://twitter.com/designboom/status/505044772382593025/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 818,
+                                    "h": 546,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 340,
+                                    "h": 226,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 400,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "australia",
+                        "indices": [
+                            43,
+                            53
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/ztSJBc95tj",
+                        "expanded_url": "http://www.designboom.com/architecture/grimshaw-architects-333-george-street-sydney-australia-08-28-2014/",
+                        "display_url": "designboom.com/architecture/g…",
+                        "indices": [
+                            108,
+                            130
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "designboom",
+                        "name": "designboom",
+                        "id": 24799500,
+                        "id_str": "24799500",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 505044771929612300,
+                        "id_str": "505044771929612289",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BwJHi1KIYAEnphg.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BwJHi1KIYAEnphg.jpg",
+                        "url": "http://t.co/PZwcxpfMhC",
+                        "display_url": "pic.twitter.com/PZwcxpfMhC",
+                        "expanded_url": "http://twitter.com/designboom/status/505044772382593025/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 818,
+                                "h": 546,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 226,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 400,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 505044772382593000,
+                        "source_status_id_str": "505044772382593025"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:23 +0000 2014",
+            "id": 505045492582346750,
+            "id_str": "505045492582346754",
+            "text": "Autodesk AutoCAD Architecture 2015 x86-x64 (English / Rus Sian) ISO / image http://t.co/fm0veDeAV9",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1933962049,
+                "id_str": "1933962049",
+                "name": "Александр Попов",
+                "screen_name": "popoval300353",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 201,
+                "friends_count": 26,
+                "listed_count": 3,
+                "created_at": "Fri Oct 04 11:06:51 +0000 2013",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 69626,
+                "lang": "ru",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000659269630/1ee7e810de61897da83e49a18c3993a2_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000659269630/1ee7e810de61897da83e49a18c3993a2_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/fm0veDeAV9",
+                        "expanded_url": "http://emercom.org/33005-autodesk-autocad-architecture-2015-x86-x64-english-rus-sian-iso-image.html",
+                        "display_url": "emercom.org/33005-autodesk…",
+                        "indices": [
+                            76,
+                            98
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:20 +0000 2014",
+            "id": 505045482079412200,
+            "id_str": "505045482079412224",
+            "text": "RT @roguecam: @roguecam's last late afternoon relax in \"the #treehouse before #BATB starts filming tomor.  #Excited and #Happy. Now to my #…",
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1960077470,
+                "id_str": "1960077470",
+                "name": "Amber Clarke",
+                "screen_name": "Kiwi_Beastie",
+                "location": "New Zealand",
+                "description": "High School student | LOVE #BATB-Vincat #Beastie #JayRyan | Movies/TV, #Haven-Naudrey #WOEE-Frillian #PLL-Ezria Rugby,Baking,Marvel&DC,#TheoJames ~Kiwi~",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 677,
+                "friends_count": 998,
+                "listed_count": 5,
+                "created_at": "Mon Oct 14 06:43:04 +0000 2013",
+                "favourites_count": 20551,
+                "utc_offset": 43200,
+                "time_zone": "Auckland",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16320,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459599959717724160/DQDMzHdR.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459599959717724160/DQDMzHdR.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/486802775808827392/NiL6rH_w_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/486802775808827392/NiL6rH_w_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960077470/1404843530",
+                "profile_link_color": "850485",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Wed Aug 27 20:57:12 +0000 2014",
+                "id": 504734399133663200,
+                "id_str": "504734399133663235",
+                "text": "@roguecam's last late afternoon relax in \"the #treehouse before #BATB starts filming tomor.  #Excited and #Happy. Now to my #architecture",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 2203798258,
+                "in_reply_to_user_id_str": "2203798258",
+                "in_reply_to_screen_name": "roguecam",
+                "user": {
+                    "id": 2203798258,
+                    "id_str": "2203798258",
+                    "name": "Roger Finlay",
+                    "screen_name": "roguecam",
+                    "location": "toronto and budapest",
+                    "description": "Motion Picture Camera Operator and Photographer. My motto is Travel Weird. I like Architecture, Films, Art, Music, Literature, World News, Sports",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1754,
+                    "friends_count": 641,
+                    "listed_count": 38,
+                    "created_at": "Sun Dec 01 22:38:29 +0000 2013",
+                    "favourites_count": 11,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 454,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000817681238/0b80882a1bec479d5b6f0ec33b59b64c_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000817681238/0b80882a1bec479d5b6f0ec33b59b64c_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 45,
+                "favorite_count": 54,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "treehouse",
+                            "indices": [
+                                46,
+                                56
+                            ]
+                        },
+                        {
+                            "text": "BATB",
+                            "indices": [
+                                64,
+                                69
+                            ]
+                        },
+                        {
+                            "text": "Excited",
+                            "indices": [
+                                93,
+                                101
+                            ]
+                        },
+                        {
+                            "text": "Happy",
+                            "indices": [
+                                106,
+                                112
+                            ]
+                        },
+                        {
+                            "text": "architecture",
+                            "indices": [
+                                124,
+                                137
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "roguecam",
+                            "name": "Roger Finlay",
+                            "id": 2203798258,
+                            "id_str": "2203798258",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 45,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "treehouse",
+                        "indices": [
+                            60,
+                            70
+                        ]
+                    },
+                    {
+                        "text": "BATB",
+                        "indices": [
+                            78,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "Excited",
+                        "indices": [
+                            107,
+                            115
+                        ]
+                    },
+                    {
+                        "text": "Happy",
+                        "indices": [
+                            120,
+                            126
+                        ]
+                    },
+                    {
+                        "text": "architecture",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "roguecam",
+                        "name": "Roger Finlay",
+                        "id": 2203798258,
+                        "id_str": "2203798258",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "roguecam",
+                        "name": "Roger Finlay",
+                        "id": 2203798258,
+                        "id_str": "2203798258",
+                        "indices": [
+                            14,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:20 +0000 2014",
+            "id": 505045482067214340,
+            "id_str": "505045482067214337",
+            "text": "RT @lil_merm: illness x asap lotto reminds me of studying gothic architecture. lofty noises",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 321459433,
+                "id_str": "321459433",
+                "name": "JUGG SANTANA",
+                "screen_name": "AsapLottO",
+                "location": "A$VP WXRLDWIDE",
+                "description": "A$AP MOB Booking and all inquiries: loudpacklotto@gmail.com",
+                "url": "http://t.co/s2JyzvZltt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/s2JyzvZltt",
+                                "expanded_url": "http://www.soundcloud.com/asaplotto",
+                                "display_url": "soundcloud.com/asaplotto",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2985,
+                "friends_count": 592,
+                "listed_count": 12,
+                "created_at": "Tue Jun 21 16:19:31 +0000 2011",
+                "favourites_count": 3303,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23526,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795339435/819cdb3fbbd44717bc5e753f26b49379.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795339435/819cdb3fbbd44717bc5e753f26b49379.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/480917553993089025/LNGzovS8_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/480917553993089025/LNGzovS8_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/321459433/1398719462",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 17:21:09 +0000 2014",
+                "id": 505042413950603260,
+                "id_str": "505042413950603264",
+                "text": "illness x asap lotto reminds me of studying gothic architecture. lofty noises",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 23487051,
+                    "id_str": "23487051",
+                    "name": "bb.vomit",
+                    "screen_name": "lil_merm",
+                    "location": "Boston, MA | Brooklyn, NY",
+                    "description": "attitude is potty",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 351,
+                    "friends_count": 170,
+                    "listed_count": 3,
+                    "created_at": "Mon Mar 09 19:36:38 +0000 2009",
+                    "favourites_count": 10908,
+                    "utc_offset": -18000,
+                    "time_zone": "Quito",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 15663,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153974997/nArptG-M.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153974997/nArptG-M.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/499706577470107648/qz8gomy1_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/499706577470107648/qz8gomy1_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/23487051/1407472224",
+                    "profile_link_color": "F7A8E4",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "D8E6E1",
+                    "profile_text_color": "A5BAD4",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "lil_merm",
+                        "name": "bb.vomit",
+                        "id": 23487051,
+                        "id_str": "23487051",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:20 +0000 2014",
+            "id": 505045482037469200,
+            "id_str": "505045482037469184",
+            "text": "RT @Architizer: ICYMI - Instagram's Hyperlapse app makes everyone an architecture videographer: http://t.co/WhCHwoYDPu http://t.co/uZsUcZGk…",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2695299865,
+                "id_str": "2695299865",
+                "name": "Laode Adiyaksa T",
+                "screen_name": "la_Adiyaksa",
+                "location": "INDONESIA",
+                "description": "Only God Can Judge Me",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 80,
+                "friends_count": 206,
+                "listed_count": 0,
+                "created_at": "Thu Jul 31 09:33:34 +0000 2014",
+                "favourites_count": 6,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 290,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/495094818352017409/avCvQHLF_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/495094818352017409/avCvQHLF_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2695299865/1406877649",
+                "profile_link_color": "B30018",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 17:04:02 +0000 2014",
+                "id": 505038105401753600,
+                "id_str": "505038105401753600",
+                "text": "ICYMI - Instagram's Hyperlapse app makes everyone an architecture videographer: http://t.co/WhCHwoYDPu http://t.co/uZsUcZGkoB",
+                "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 51040617,
+                    "id_str": "51040617",
+                    "name": "Architizer",
+                    "screen_name": "Architizer",
+                    "location": "New York, NY // Global",
+                    "description": "Empowering architecture through sharing and transparency. Visit http://t.co/bXzApV6x2b to explore, collect and source architecture & interiors.",
+                    "url": "http://t.co/DvIAPEjLRd",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/DvIAPEjLRd",
+                                    "expanded_url": "http://www.architizer.com",
+                                    "display_url": "architizer.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/bXzApV6x2b",
+                                    "expanded_url": "http://architizer.com",
+                                    "display_url": "architizer.com",
+                                    "indices": [
+                                        64,
+                                        86
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 117118,
+                    "friends_count": 1414,
+                    "listed_count": 2797,
+                    "created_at": "Fri Jun 26 12:40:06 +0000 2009",
+                    "favourites_count": 651,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 19297,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440939495584587776/rGqV1PUh.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440939495584587776/rGqV1PUh.jpeg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000246586861/548ef01fdedc8058a9da822cc28b3497_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000246586861/548ef01fdedc8058a9da822cc28b3497_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/51040617/1405980567",
+                    "profile_link_color": "0785B3",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "009DEC",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 11,
+                "favorite_count": 3,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/WhCHwoYDPu",
+                            "expanded_url": "http://arc.ht/1C2zTeE",
+                            "display_url": "arc.ht/1C2zTeE",
+                            "indices": [
+                                80,
+                                102
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "media": [
+                        {
+                            "id": 505038105141719040,
+                            "id_str": "505038105141719040",
+                            "indices": [
+                                103,
+                                125
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                            "url": "http://t.co/uZsUcZGkoB",
+                            "display_url": "pic.twitter.com/uZsUcZGkoB",
+                            "expanded_url": "http://twitter.com/Architizer/status/505038105401753600/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 569,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 333,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/WhCHwoYDPu",
+                        "expanded_url": "http://arc.ht/1C2zTeE",
+                        "display_url": "arc.ht/1C2zTeE",
+                        "indices": [
+                            96,
+                            118
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Architizer",
+                        "name": "Architizer",
+                        "id": 51040617,
+                        "id_str": "51040617",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 505038105141719040,
+                        "id_str": "505038105141719040",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                        "url": "http://t.co/uZsUcZGkoB",
+                        "display_url": "pic.twitter.com/uZsUcZGkoB",
+                        "expanded_url": "http://twitter.com/Architizer/status/505038105401753600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 569,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 333,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 505038105401753600,
+                        "source_status_id_str": "505038105401753600"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Aug 28 17:33:20 +0000 2014",
+            "id": 505045481685516300,
+            "id_str": "505045481685516288",
+            "text": "RT @Architizer: ICYMI - Instagram's Hyperlapse app makes everyone an architecture videographer: http://t.co/WhCHwoYDPu http://t.co/uZsUcZGk…",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2729999264,
+                "id_str": "2729999264",
+                "name": "lina abed",
+                "screen_name": "linaarchidreams",
+                "location": "",
+                "description": "architecte \nشعاري كن في الحياة كعابر سبيل و اترك وراءك كل شيء جميل فما نحن في الدنيا الا ضيوف و ما على الضيف الا الرحيل\nولا احد يدري متى لرحيل",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 47,
+                "listed_count": 0,
+                "created_at": "Wed Aug 13 18:07:23 +0000 2014",
+                "favourites_count": 8,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 11,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/505043723894267904/2XKlhlAz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/505043723894267904/2XKlhlAz_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2729999264/1409246582",
+                "profile_link_color": "A400B3",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Aug 28 17:04:02 +0000 2014",
+                "id": 505038105401753600,
+                "id_str": "505038105401753600",
+                "text": "ICYMI - Instagram's Hyperlapse app makes everyone an architecture videographer: http://t.co/WhCHwoYDPu http://t.co/uZsUcZGkoB",
+                "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 51040617,
+                    "id_str": "51040617",
+                    "name": "Architizer",
+                    "screen_name": "Architizer",
+                    "location": "New York, NY // Global",
+                    "description": "Empowering architecture through sharing and transparency. Visit http://t.co/bXzApV6x2b to explore, collect and source architecture & interiors.",
+                    "url": "http://t.co/DvIAPEjLRd",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/DvIAPEjLRd",
+                                    "expanded_url": "http://www.architizer.com",
+                                    "display_url": "architizer.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/bXzApV6x2b",
+                                    "expanded_url": "http://architizer.com",
+                                    "display_url": "architizer.com",
+                                    "indices": [
+                                        64,
+                                        86
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 117118,
+                    "friends_count": 1414,
+                    "listed_count": 2797,
+                    "created_at": "Fri Jun 26 12:40:06 +0000 2009",
+                    "favourites_count": 651,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 19297,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440939495584587776/rGqV1PUh.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440939495584587776/rGqV1PUh.jpeg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000246586861/548ef01fdedc8058a9da822cc28b3497_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000246586861/548ef01fdedc8058a9da822cc28b3497_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/51040617/1405980567",
+                    "profile_link_color": "0785B3",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "009DEC",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 11,
+                "favorite_count": 3,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/WhCHwoYDPu",
+                            "expanded_url": "http://arc.ht/1C2zTeE",
+                            "display_url": "arc.ht/1C2zTeE",
+                            "indices": [
+                                80,
+                                102
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "media": [
+                        {
+                            "id": 505038105141719040,
+                            "id_str": "505038105141719040",
+                            "indices": [
+                                103,
+                                125
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                            "url": "http://t.co/uZsUcZGkoB",
+                            "display_url": "pic.twitter.com/uZsUcZGkoB",
+                            "expanded_url": "http://twitter.com/Architizer/status/505038105401753600/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 569,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 333,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/WhCHwoYDPu",
+                        "expanded_url": "http://arc.ht/1C2zTeE",
+                        "display_url": "arc.ht/1C2zTeE",
+                        "indices": [
+                            96,
+                            118
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Architizer",
+                        "name": "Architizer",
+                        "id": 51040617,
+                        "id_str": "51040617",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 505038105141719040,
+                        "id_str": "505038105141719040",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BwJBexcCMAA4jAQ.jpg",
+                        "url": "http://t.co/uZsUcZGkoB",
+                        "display_url": "pic.twitter.com/uZsUcZGkoB",
+                        "expanded_url": "http://twitter.com/Architizer/status/505038105401753600/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 569,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 333,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 505038105401753600,
+                        "source_status_id_str": "505038105401753600"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "pt"
+            },
+            "created_at": "Thu Aug 28 17:33:20 +0000 2014",
+            "id": 505045480783761400,
+            "id_str": "505045480783761408",
+            "text": "Google pa Alvar Aalto. https://t.co/8AzWhgs5aQ",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 291982844,
+                "id_str": "291982844",
+                "name": "Iztok",
+                "screen_name": "IztokHvala",
+                "location": "Ljubljana, Slovenia",
+                "description": "Architecture&Photography",
+                "url": "http://t.co/OEo2JcQRVZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/OEo2JcQRVZ",
+                                "expanded_url": "http://www.iztokhvala.com",
+                                "display_url": "iztokhvala.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 202,
+                "friends_count": 507,
+                "listed_count": 3,
+                "created_at": "Mon May 02 22:48:26 +0000 2011",
+                "favourites_count": 54,
+                "utc_offset": 7200,
+                "time_zone": "Ljubljana",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2701,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000015376694/e715b0f1438f2a9ecaba5a100b3a25a9_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000015376694/e715b0f1438f2a9ecaba5a100b3a25a9_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/291982844/1351509476",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8AzWhgs5aQ",
+                        "expanded_url": "https://www.google.com/maps/views/streetview/alvar-aalto-architecture?gl=us",
+                        "display_url": "google.com/maps/views/str…",
+                        "indices": [
+                            23,
+                            46
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.085,
+        "max_id": 505045577001078800,
+        "max_id_str": "505045577001078784",
+        "next_results": "?max_id=505045480783761407&q=architecture&include_entities=1",
+        "query": "architecture",
+        "refresh_url": "?since_id=505045577001078784&q=architecture&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

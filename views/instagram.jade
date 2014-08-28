@@ -1,0 +1,27 @@
+extends layout
+
+block content
+
+
+  - var n = 0
+  - var i = 0 
+  - var k = 0
+
+  #bg-overlay
+
+  #title 
+    p= TwitterData.statuses[0].user.name
+
+
+  ul
+    while n < 8
+      a(href= InstagramData[n++].link target="_blank")
+        li.bubble
+          div.innerbubble
+          
+          div.outerbubble
+            img(src= InstagramData[i++].images.low_resolution.url)
+                
+  form(method="post", action="/instagram").form
+    input(type="text", name="searchquery" class="search")
+    input(type="submit" class="button")
