@@ -40,9 +40,6 @@ router.get('/', function(req, res) {
 
 router.post('/', function(req, res) {
 
-  var instaData = (JSON.parse(fs.readFileSync('public/json/instagram.json', 'utf8')));
-  var twitData = (JSON.parse(fs.readFileSync('public/json/twitter.json', 'utf8')));
-
   var searchVariable = req.body.searchquery;
 
   Instagram.tags.recent({
@@ -60,6 +57,8 @@ router.post('/', function(req, res) {
 
     }
 
+ 
+
 
   });
 
@@ -72,33 +71,14 @@ router.post('/', function(req, res) {
        }
      });
    });
-  res.render('instagram', {title:"Media BubbleBath", InstagramData:instaData, TwitterData:twitData});
+
+  var instaData = (JSON.parse(fs.readFileSync('public/json/instagram.json', 'utf8')));
+  var twitData = (JSON.parse(fs.readFileSync('public/json/twitter.json', 'utf8')));
   
+  res.render('instagram', {title:"Media BubbleBath", searchTerm:searchVariable, InstagramData:instaData, TwitterData:twitData});
+
 });
 
 
 
 module.exports = router;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
