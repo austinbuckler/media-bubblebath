@@ -1,6 +1,8 @@
 extends layout
 
 block content
+  div.preloader
+    img(src="loader.gif" alt="preloader")
 
 
   - var n = 0
@@ -21,7 +23,14 @@ block content
           
           div.outerbubble
             img(src= InstagramData[i++].images.low_resolution.url)
+
                 
-  form(method="post", action="/").form
+  form(method="post", action="/" id="target").form
     input(type="text", name="searchquery" class="search")
     input(type="submit" class="button")
+
+  script(type='text/javascript').
+    $('#target').submit(function( event ) {
+      $('.preloader').css('opacity', '1');
+    });
+

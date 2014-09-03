@@ -1,15 +1,19 @@
 extends layout
 
 block content
-
+  div.preloader
+    img(src="loader.gif" alt="preloader")
 
   #bg-overlay
   #title 
     p= title
 
-  form(method="post", action="/").form
+  form(method="post", action="/" id="target").form
     input(type="text", name="searchquery" class="search")
-    input(type="submit" class="button")
+    input(type="submit" class="button" id="submit")
 
-  
+
   script(type='text/javascript').
+    $('#target').submit(function( event ) {
+      $('.preloader').css('opacity', '1');
+    });
