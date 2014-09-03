@@ -51,31 +51,27 @@ router.post('/', function(req, res) {
         if(err) {
           console.log(err);
         } else {
-          console.log("JSON saved to " + instagramJSON);
+           twitterCli.search({'q':searchVariable}, function(err, twitResult) {
+             fs.writeFile(twitterJSON, JSON.stringify(twitResult, null, 4), function(err) {
+               if(err) {
+                 console.log(err);
+               } else {
+                var instaData = (JSON.parse(fs.readFileSync('public/json/instagram.json', 'utf8')));
+                var twitData = (JSON.parse(fs.readFileSync('public/json/twitter.json', 'utf8')));
+                
+                res.render('instagram', {title:"Media BubbleBath", searchTerm:searchVariable, InstagramData:instaData, TwitterData:twitData});
+               }
+             });
+           });
+            
         }
       });
-
     }
-
- 
-
-
-  });
-
-   twitterCli.search({'q':searchVariable}, function(err, twitResult) {
-     fs.writeFile(twitterJSON, JSON.stringify(twitResult, null, 4), function(err) {
-       if(err) {
-         console.log(err);
-       } else {
-         console.log("JSON saved to " + twitterJSON);
-       }
-     });
    });
 
-  var instaData = (JSON.parse(fs.readFileSync('public/json/instagram.json', 'utf8')));
-  var twitData = (JSON.parse(fs.readFileSync('public/json/twitter.json', 'utf8')));
-  
-  res.render('instagram', {title:"Media BubbleBath", searchTerm:searchVariable, InstagramData:instaData, TwitterData:twitData});
+
+
+
 
 });
 
