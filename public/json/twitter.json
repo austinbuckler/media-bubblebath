@@ -2,415 +2,13 @@
     "statuses": [
         {
             "metadata": {
-                "iso_language_code": "es",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:40 +0000 2014",
-            "id": 507008749685309440,
-            "id_str": "507008749685309440",
-            "text": "RT @InStyleMexico: Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t…",
-            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2522427144,
-                "id_str": "2522427144",
-                "name": "Gaby  Trujillo ",
-                "screen_name": "TrujilloL_Gaby3",
-                "location": "Mexico",
-                "description": "I love singing and dancing, speaking English and some French, I hardly like to read, I have very good friends and I'M JUST Original: 3",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 259,
-                "friends_count": 380,
-                "listed_count": 0,
-                "created_at": "Sun May 25 10:38:21 +0000 2014",
-                "favourites_count": 0,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 5579,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/470675382673231872/4pF4d-xA_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/470675382673231872/4pF4d-xA_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2522427144/1401052732",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "metadata": {
-                    "iso_language_code": "es",
-                    "result_type": "recent"
-                },
-                "created_at": "Wed Sep 03 03:05:09 +0000 2014",
-                "id": 507001321439109100,
-                "id_str": "507001321439109121",
-                "text": "Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t.co/MMIkut7f8a",
-                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-                "truncated": false,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 53392750,
-                    "id_str": "53392750",
-                    "name": "InStyle México",
-                    "screen_name": "InStyleMexico",
-                    "location": "",
-                    "description": "InStyle Mexico te da los mejores tips de estilo, moda, belleza y celebridades.",
-                    "url": "http://t.co/0KlPp7gaPb",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "http://t.co/0KlPp7gaPb",
-                                    "expanded_url": "http://instylemexico.tumblr.com/",
-                                    "display_url": "instylemexico.tumblr.com",
-                                    "indices": [
-                                        0,
-                                        22
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 168510,
-                    "friends_count": 739,
-                    "listed_count": 773,
-                    "created_at": "Fri Jul 03 14:05:10 +0000 2009",
-                    "favourites_count": 154,
-                    "utc_offset": -18000,
-                    "time_zone": "Mexico City",
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 11634,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "C71422",
-                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53392750/1408631164",
-                    "profile_link_color": "990000",
-                    "profile_sidebar_border_color": "FFFFFF",
-                    "profile_sidebar_fill_color": "F3F3F3",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "retweet_count": 766,
-                "favorite_count": 2,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "url": "http://t.co/MMIkut7f8a",
-                            "expanded_url": "http://ow.ly/i/6KI0T",
-                            "display_url": "ow.ly/i/6KI0T",
-                            "indices": [
-                                112,
-                                134
-                            ]
-                        }
-                    ],
-                    "user_mentions": []
-                },
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "es"
-            },
-            "retweet_count": 766,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/MMIkut7f8a",
-                        "expanded_url": "http://ow.ly/i/6KI0T",
-                        "display_url": "ow.ly/i/6KI0T",
-                        "indices": [
-                            139,
-                            140
-                        ]
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "screen_name": "InStyleMexico",
-                        "name": "InStyle México",
-                        "id": 53392750,
-                        "id_str": "53392750",
-                        "indices": [
-                            3,
-                            17
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "es"
-        },
-        {
-            "metadata": {
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:39 +0000 2014",
-            "id": 507008748012187650,
-            "id_str": "507008748012187648",
-            "text": "@__BABIC @FunnyPicsDepot that cat putting kitties on the poster just like me",
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "truncated": false,
-            "in_reply_to_status_id": 507006802152935400,
-            "in_reply_to_status_id_str": "507006802152935424",
-            "in_reply_to_user_id": 162776116,
-            "in_reply_to_user_id_str": "162776116",
-            "in_reply_to_screen_name": "__BABIC",
-            "user": {
-                "id": 766991804,
-                "id_str": "766991804",
-                "name": "BAEbic",
-                "screen_name": "BasedBabic",
-                "location": "",
-                "description": "Trillest White Boy | 6'6 | 97 til infinity | Insta: Basedbabic                           Snapchat: babic7",
-                "url": "http://t.co/9ljX0GiwPd",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "http://t.co/9ljX0GiwPd",
-                                "expanded_url": "http://instagram.com/basedbabic",
-                                "display_url": "instagram.com/basedbabic",
-                                "indices": [
-                                    0,
-                                    22
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 145,
-                "friends_count": 104,
-                "listed_count": 0,
-                "created_at": "Sun Aug 19 05:39:31 +0000 2012",
-                "favourites_count": 798,
-                "utc_offset": -18000,
-                "time_zone": "Bogota",
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 1823,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489289715950968834/09rJCPPH.jpeg",
-                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489289715950968834/09rJCPPH.jpeg",
-                "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/488414464618676224/hp5SqTVW_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/488414464618676224/hp5SqTVW_normal.jpeg",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "FFFFFF",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "__BABIC",
-                        "name": "Steezy",
-                        "id": 162776116,
-                        "id_str": "162776116",
-                        "indices": [
-                            0,
-                            8
-                        ]
-                    },
-                    {
-                        "screen_name": "FunnyPicsDepot",
-                        "name": "FunnyPicsDepot",
-                        "id": 524657792,
-                        "id_str": "524657792",
-                        "indices": [
-                            9,
-                            24
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:39 +0000 2014",
-            "id": 507008747697610750,
-            "id_str": "507008747697610752",
-            "text": "@LegendMary_ omg I was dying the random cat",
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "truncated": false,
-            "in_reply_to_status_id": 506975568358015000,
-            "in_reply_to_status_id_str": "506975568358014977",
-            "in_reply_to_user_id": 273223034,
-            "in_reply_to_user_id_str": "273223034",
-            "in_reply_to_screen_name": "LegendMary_",
-            "user": {
-                "id": 1375003482,
-                "id_str": "1375003482",
-                "name": "✿ lily ✿",
-                "screen_name": "lilischill15",
-                "location": "@jtimberlake=life ",
-                "description": "JT and Divergent are my mains. Now I'm seeing JT in December..confusing I know",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 345,
-                "friends_count": 187,
-                "listed_count": 0,
-                "created_at": "Tue Apr 23 17:04:34 +0000 2013",
-                "favourites_count": 10958,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 8989,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000107120338/0fa2d19a53d0904553d7da33169c6ad3.png",
-                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000107120338/0fa2d19a53d0904553d7da33169c6ad3.png",
-                "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/505771928582619136/uHs9toAE_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/505771928582619136/uHs9toAE_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375003482/1409420060",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "FFFFFF",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "LegendMary_",
-                        "name": "Mary Enger",
-                        "id": 273223034,
-                        "id_str": "273223034",
-                        "indices": [
-                            0,
-                            12
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:39 +0000 2014",
-            "id": 507008747613347840,
-            "id_str": "507008747613347841",
-            "text": "My sister put tattoos all over our hairless cat..",
+            "created_at": "Wed Sep 03 03:40:04 +0000 2014",
+            "id": 507010107834896400,
+            "id_str": "507010107834896384",
+            "text": "RT @Samie_Wammmmmy: Today's car selfie 👻 http://t.co/HViyPKT8rE",
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "truncated": false,
             "in_reply_to_status_id": null,
@@ -419,10 +17,10 @@
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 1087657476,
-                "id_str": "1087657476",
-                "name": "Hannah Lee",
-                "screen_name": "hannah__leee",
+                "id": 809902256,
+                "id_str": "809902256",
+                "name": "ĘK",
+                "screen_name": "EricKIMSEY",
                 "location": "",
                 "description": "",
                 "url": null,
@@ -432,109 +30,31 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 150,
-                "friends_count": 140,
-                "listed_count": 0,
-                "created_at": "Mon Jan 14 01:13:44 +0000 2013",
-                "favourites_count": 319,
+                "followers_count": 561,
+                "friends_count": 688,
+                "listed_count": 3,
+                "created_at": "Sat Sep 08 00:58:19 +0000 2012",
+                "favourites_count": 5297,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 389,
+                "statuses_count": 8243,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
                 "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/502948301915037696/X0EPBK8q_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/502948301915037696/X0EPBK8q_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087657476/1409137771",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704712030/2921ecfba55aaacb6de8524ccb7ddf4c.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704712030/2921ecfba55aaacb6de8524ccb7ddf4c.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/503725283187650561/e2PEyOwi_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/503725283187650561/e2PEyOwi_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/809902256/1408932692",
                 "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_border_color": "FFFFFF",
                 "profile_sidebar_fill_color": "DDEEF6",
                 "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": []
-            },
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:39 +0000 2014",
-            "id": 507008744010817540,
-            "id_str": "507008744010817537",
-            "text": "RT @blakeshelton: Ok.. Ok.. Guess I'll go ahead and let the cat out of the bag. We're expecting!!! Yep!! We're expecting @carrieunderwood t…",
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 100877966,
-                "id_str": "100877966",
-                "name": "Irene Prilutskiy",
-                "screen_name": "Inka56",
-                "location": "",
-                "description": "A ship in port is safe but thats not what ships are built for.",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 143,
-                "friends_count": 167,
-                "listed_count": 0,
-                "created_at": "Fri Jan 01 01:35:44 +0000 2010",
-                "favourites_count": 1258,
-                "utc_offset": -18000,
-                "time_zone": "Central Time (US & Canada)",
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 7700,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C6E2EE",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/439995038441828352/th3St-yG_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/439995038441828352/th3St-yG_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/100877966/1364631413",
-                "profile_link_color": "1F98C7",
-                "profile_sidebar_border_color": "C6E2EE",
-                "profile_sidebar_fill_color": "DAECF4",
-                "profile_text_color": "663B12",
                 "profile_use_background_image": true,
                 "default_profile": false,
                 "default_profile_image": false,
@@ -551,10 +71,10 @@
                     "iso_language_code": "en",
                     "result_type": "recent"
                 },
-                "created_at": "Wed Sep 03 02:34:14 +0000 2014",
-                "id": 506993541483356160,
-                "id_str": "506993541483356160",
-                "text": "Ok.. Ok.. Guess I'll go ahead and let the cat out of the bag. We're expecting!!! Yep!! We're expecting @carrieunderwood to have a baby!!",
+                "created_at": "Wed Sep 03 03:09:50 +0000 2014",
+                "id": 507002499191287800,
+                "id_str": "507002499191287808",
+                "text": "Today's car selfie 👻 http://t.co/HViyPKT8rE",
                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                 "truncated": false,
                 "in_reply_to_status_id": null,
@@ -563,57 +83,44 @@
                 "in_reply_to_user_id_str": null,
                 "in_reply_to_screen_name": null,
                 "user": {
-                    "id": 14920785,
-                    "id_str": "14920785",
-                    "name": "Blake Shelton",
-                    "screen_name": "blakeshelton",
-                    "location": "Tishomingo, Ok",
-                    "description": "The Official Blake Shelton Twitter. You're getting the real BS straight from Blake himself. (And a few official updates from Team BS too)",
-                    "url": "http://t.co/AHii70ZaoN",
+                    "id": 1436862414,
+                    "id_str": "1436862414",
+                    "name": "Samie Sosa",
+                    "screen_name": "Samie_Wammmmmy",
+                    "location": "",
+                    "description": "Dance with me under the stars⛺️",
+                    "url": null,
                     "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "http://t.co/AHii70ZaoN",
-                                    "expanded_url": "http://blakeshelton.com",
-                                    "display_url": "blakeshelton.com",
-                                    "indices": [
-                                        0,
-                                        22
-                                    ]
-                                }
-                            ]
-                        },
                         "description": {
                             "urls": []
                         }
                     },
                     "protected": false,
-                    "followers_count": 7133632,
-                    "friends_count": 493,
-                    "listed_count": 16670,
-                    "created_at": "Tue May 27 13:43:08 +0000 2008",
-                    "favourites_count": 14,
-                    "utc_offset": -18000,
-                    "time_zone": "Central Time (US & Canada)",
+                    "followers_count": 500,
+                    "friends_count": 494,
+                    "listed_count": 0,
+                    "created_at": "Fri May 17 23:07:11 +0000 2013",
+                    "favourites_count": 9705,
+                    "utc_offset": -25200,
+                    "time_zone": "Arizona",
                     "geo_enabled": false,
-                    "verified": true,
-                    "statuses_count": 16771,
+                    "verified": false,
+                    "statuses_count": 9250,
                     "lang": "en",
                     "contributors_enabled": false,
                     "is_translator": false,
-                    "is_translation_enabled": true,
+                    "is_translation_enabled": false,
                     "profile_background_color": "000000",
-                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/824745275/a5c8828fd9f8bfb2ee626bace51f85f5.jpeg",
-                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/824745275/a5c8828fd9f8bfb2ee626bace51f85f5.jpeg",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/503403211181793281/dbEi_0vY_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/503403211181793281/dbEi_0vY_normal.jpeg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14920785/1400100597",
-                    "profile_link_color": "505961",
-                    "profile_sidebar_border_color": "000000",
-                    "profile_sidebar_fill_color": "E3E9EF",
-                    "profile_text_color": "505961",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/505982670296580096/ZdWiJX9q_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/505982670296580096/ZdWiJX9q_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436862414/1408171510",
+                    "profile_link_color": "F20C4D",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
                     "profile_use_background_image": true,
                     "default_profile": false,
                     "default_profile_image": false,
@@ -625,30 +132,58 @@
                 "coordinates": null,
                 "place": null,
                 "contributors": null,
-                "retweet_count": 2943,
-                "favorite_count": 10990,
+                "retweet_count": 6,
+                "favorite_count": 24,
                 "entities": {
                     "hashtags": [],
                     "symbols": [],
                     "urls": [],
-                    "user_mentions": [
+                    "user_mentions": [],
+                    "media": [
                         {
-                            "screen_name": "carrieunderwood",
-                            "name": "Carrie Underwood",
-                            "id": 386244525,
-                            "id_str": "386244525",
+                            "id": 507002498385969150,
+                            "id_str": "507002498385969153",
                             "indices": [
-                                103,
-                                119
-                            ]
+                                21,
+                                43
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Bwk8FgiIAAEzKXm.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Bwk8FgiIAAEzKXm.jpg",
+                            "url": "http://t.co/HViyPKT8rE",
+                            "display_url": "pic.twitter.com/HViyPKT8rE",
+                            "expanded_url": "http://twitter.com/Samie_Wammmmmy/status/507002499191287808/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 340,
+                                    "h": 191,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 576,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 337,
+                                    "resize": "fit"
+                                }
+                            }
                         }
                     ]
                 },
                 "favorited": false,
                 "retweeted": false,
+                "possibly_sensitive": false,
                 "lang": "en"
             },
-            "retweet_count": 2943,
+            "retweet_count": 6,
             "favorite_count": 0,
             "entities": {
                 "hashtags": [],
@@ -656,29 +191,60 @@
                 "urls": [],
                 "user_mentions": [
                     {
-                        "screen_name": "blakeshelton",
-                        "name": "Blake Shelton",
-                        "id": 14920785,
-                        "id_str": "14920785",
+                        "screen_name": "Samie_Wammmmmy",
+                        "name": "Samie Sosa",
+                        "id": 1436862414,
+                        "id_str": "1436862414",
                         "indices": [
                             3,
-                            16
+                            18
                         ]
-                    },
+                    }
+                ],
+                "media": [
                     {
-                        "screen_name": "carrieunderwood",
-                        "name": "Carrie Underwood",
-                        "id": 386244525,
-                        "id_str": "386244525",
+                        "id": 507002498385969150,
+                        "id_str": "507002498385969153",
                         "indices": [
-                            121,
-                            137
-                        ]
+                            41,
+                            63
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Bwk8FgiIAAEzKXm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Bwk8FgiIAAEzKXm.jpg",
+                        "url": "http://t.co/HViyPKT8rE",
+                        "display_url": "pic.twitter.com/HViyPKT8rE",
+                        "expanded_url": "http://twitter.com/Samie_Wammmmmy/status/507002499191287808/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 337,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 507002499191287800,
+                        "source_status_id_str": "507002499191287808"
                     }
                 ]
             },
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         {
@@ -686,10 +252,10 @@
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:38 +0000 2014",
-            "id": 507008743092269060,
-            "id_str": "507008743092269056",
-            "text": "\"Fuck you, I don't have food. I keep booze in here too\" actual conversation I had with my cat #TT",
+            "created_at": "Wed Sep 03 03:40:04 +0000 2014",
+            "id": 507010107608404000,
+            "id_str": "507010107608403968",
+            "text": "RT @xo_sarcasm: Okay seriously I've done this before but:\n\nYOU'RE means you are\nYOUR is possession like that is YOUR car\n\nCan you people pl…",
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
             "truncated": false,
             "in_reply_to_status_id": null,
@@ -698,98 +264,12 @@
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 1015672057,
-                "id_str": "1015672057",
-                "name": "jason ",
-                "screen_name": "stormrider27",
-                "location": "Ft Myers Florida",
-                "description": "a rum loving sailor destined to be a gypsy monk.",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 1213,
-                "friends_count": 1286,
-                "listed_count": 1,
-                "created_at": "Sun Dec 16 17:17:56 +0000 2012",
-                "favourites_count": 625,
-                "utc_offset": -14400,
-                "time_zone": "Eastern Time (US & Canada)",
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 1881,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/2993438894/0de251861e22f0e75819447d6ad5b630_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2993438894/0de251861e22f0e75819447d6ad5b630_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015672057/1379109524",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "TT",
-                        "indices": [
-                            94,
-                            97
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": []
-            },
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "es",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:38 +0000 2014",
-            "id": 507008742680846340,
-            "id_str": "507008742680846336",
-            "text": "RT @InStyleMexico: Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t…",
-            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2564386650,
-                "id_str": "2564386650",
-                "name": "Lety  Padilla ",
-                "screen_name": "Lety_Padilla6",
+                "id": 542946143,
+                "id_str": "542946143",
+                "name": "danielle crumley",
+                "screen_name": "CrumleyDanielle",
                 "location": "",
-                "description": "Me encanta la vida nocturna. Criticar es mi deporte favorito. Perra de nacimiento. No me aman?",
+                "description": "she's as pretty as a picture, every bit as funny as she is smart, got a smile that'll hold you together  and a touch that'll tear you apart",
                 "url": null,
                 "entities": {
                     "description": {
@@ -797,447 +277,30 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 164,
-                "friends_count": 375,
-                "listed_count": 0,
-                "created_at": "Fri Jun 13 01:40:48 +0000 2014",
-                "favourites_count": 0,
+                "followers_count": 493,
+                "friends_count": 1504,
+                "listed_count": 2,
+                "created_at": "Sun Apr 01 23:49:09 +0000 2012",
+                "favourites_count": 1168,
                 "utc_offset": null,
                 "time_zone": null,
-                "geo_enabled": false,
+                "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 4301,
-                "lang": "es",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/477346708360151041/B7sLZZvM_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/477346708360151041/B7sLZZvM_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2564386650/1402643300",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "metadata": {
-                    "iso_language_code": "es",
-                    "result_type": "recent"
-                },
-                "created_at": "Wed Sep 03 03:05:09 +0000 2014",
-                "id": 507001321439109100,
-                "id_str": "507001321439109121",
-                "text": "Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t.co/MMIkut7f8a",
-                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-                "truncated": false,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 53392750,
-                    "id_str": "53392750",
-                    "name": "InStyle México",
-                    "screen_name": "InStyleMexico",
-                    "location": "",
-                    "description": "InStyle Mexico te da los mejores tips de estilo, moda, belleza y celebridades.",
-                    "url": "http://t.co/0KlPp7gaPb",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "http://t.co/0KlPp7gaPb",
-                                    "expanded_url": "http://instylemexico.tumblr.com/",
-                                    "display_url": "instylemexico.tumblr.com",
-                                    "indices": [
-                                        0,
-                                        22
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 168510,
-                    "friends_count": 739,
-                    "listed_count": 773,
-                    "created_at": "Fri Jul 03 14:05:10 +0000 2009",
-                    "favourites_count": 154,
-                    "utc_offset": -18000,
-                    "time_zone": "Mexico City",
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 11634,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "C71422",
-                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53392750/1408631164",
-                    "profile_link_color": "990000",
-                    "profile_sidebar_border_color": "FFFFFF",
-                    "profile_sidebar_fill_color": "F3F3F3",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "retweet_count": 766,
-                "favorite_count": 2,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "url": "http://t.co/MMIkut7f8a",
-                            "expanded_url": "http://ow.ly/i/6KI0T",
-                            "display_url": "ow.ly/i/6KI0T",
-                            "indices": [
-                                112,
-                                134
-                            ]
-                        }
-                    ],
-                    "user_mentions": []
-                },
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "es"
-            },
-            "retweet_count": 766,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/MMIkut7f8a",
-                        "expanded_url": "http://ow.ly/i/6KI0T",
-                        "display_url": "ow.ly/i/6KI0T",
-                        "indices": [
-                            139,
-                            140
-                        ]
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "screen_name": "InStyleMexico",
-                        "name": "InStyle México",
-                        "id": 53392750,
-                        "id_str": "53392750",
-                        "indices": [
-                            3,
-                            17
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "es"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "es",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:37 +0000 2014",
-            "id": 507008735613444100,
-            "id_str": "507008735613444096",
-            "text": "RT @InStyleMexico: Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t…",
-            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2629439247,
-                "id_str": "2629439247",
-                "name": "Vania  Barroso ",
-                "screen_name": "Vania_Barroso43",
-                "location": "Mexico",
-                "description": "Paso el tiempo pensando en momentos que pasaron, que ya los abraza el pasado y que nunca volverán a pasar.",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 210,
-                "friends_count": 375,
-                "listed_count": 0,
-                "created_at": "Sat Jun 21 20:45:41 +0000 2014",
-                "favourites_count": 0,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 3680,
-                "lang": "es",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/480792055438786560/g-fQimwf_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/480792055438786560/g-fQimwf_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2629439247/1403464735",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "metadata": {
-                    "iso_language_code": "es",
-                    "result_type": "recent"
-                },
-                "created_at": "Wed Sep 03 03:05:09 +0000 2014",
-                "id": 507001321439109100,
-                "id_str": "507001321439109121",
-                "text": "Luce unos cat eyes, ojos góticos o un delineador corrido. Todo se vale en cuanto a delineado en otoño-invierno. http://t.co/MMIkut7f8a",
-                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-                "truncated": false,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 53392750,
-                    "id_str": "53392750",
-                    "name": "InStyle México",
-                    "screen_name": "InStyleMexico",
-                    "location": "",
-                    "description": "InStyle Mexico te da los mejores tips de estilo, moda, belleza y celebridades.",
-                    "url": "http://t.co/0KlPp7gaPb",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "http://t.co/0KlPp7gaPb",
-                                    "expanded_url": "http://instylemexico.tumblr.com/",
-                                    "display_url": "instylemexico.tumblr.com",
-                                    "indices": [
-                                        0,
-                                        22
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 168510,
-                    "friends_count": 739,
-                    "listed_count": 773,
-                    "created_at": "Fri Jul 03 14:05:10 +0000 2009",
-                    "favourites_count": 154,
-                    "utc_offset": -18000,
-                    "time_zone": "Mexico City",
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 11634,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "C71422",
-                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502461047278534657/Rtct9wAC.jpeg",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/502461561588293632/p3tapTuI_normal.jpeg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53392750/1408631164",
-                    "profile_link_color": "990000",
-                    "profile_sidebar_border_color": "FFFFFF",
-                    "profile_sidebar_fill_color": "F3F3F3",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "retweet_count": 766,
-                "favorite_count": 2,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [
-                        {
-                            "url": "http://t.co/MMIkut7f8a",
-                            "expanded_url": "http://ow.ly/i/6KI0T",
-                            "display_url": "ow.ly/i/6KI0T",
-                            "indices": [
-                                112,
-                                134
-                            ]
-                        }
-                    ],
-                    "user_mentions": []
-                },
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "es"
-            },
-            "retweet_count": 766,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/MMIkut7f8a",
-                        "expanded_url": "http://ow.ly/i/6KI0T",
-                        "display_url": "ow.ly/i/6KI0T",
-                        "indices": [
-                            139,
-                            140
-                        ]
-                    }
-                ],
-                "user_mentions": [
-                    {
-                        "screen_name": "InStyleMexico",
-                        "name": "InStyle México",
-                        "id": 53392750,
-                        "id_str": "53392750",
-                        "indices": [
-                            3,
-                            17
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "es"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:36 +0000 2014",
-            "id": 507008734850457600,
-            "id_str": "507008734850457600",
-            "text": "I made a new achievement: `Fat Cat`. Try to beat me in the #iPad game The Tribez! http://t.co/ZFLmrFjYtn #ipadgames, #gameinsight",
-            "source": "<a href=\"https://itunes.apple.com/us/app/the-tribez-hd/id494254145?mt=8&uo=4\" rel=\"nofollow\">The Tribez HD on iOS</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 21686110,
-                "id_str": "21686110",
-                "name": "CBreeze27",
-                "screen_name": "CBreeze27",
-                "location": "New York",
-                "description": "Politics, Current Events,  Gadgets and Video Games get my attention",
-                "url": "http://t.co/WCWKH8UsxA",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "http://t.co/WCWKH8UsxA",
-                                "expanded_url": "http://www.cafepress.com/cbreezecreations",
-                                "display_url": "cafepress.com/cbreezecreatio…",
-                                "indices": [
-                                    0,
-                                    22
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 33,
-                "friends_count": 213,
-                "listed_count": 0,
-                "created_at": "Mon Feb 23 19:53:43 +0000 2009",
-                "favourites_count": 40,
-                "utc_offset": -14400,
-                "time_zone": "Eastern Time (US & Canada)",
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 1520,
+                "statuses_count": 64812,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "022330",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/81890057/Dakota-053105-023-a_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/81890057/Dakota-053105-023-a_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21686110/1386308184",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "A8C7F7",
-                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/646457381/2645afjq9cb4yawmlcn9.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/646457381/2645afjq9cb4yawmlcn9.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/452167400348463105/KH70Ty0U_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/452167400348463105/KH70Ty0U_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/542946143/1386285707",
+                "profile_link_color": "EB59DA",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
                 "profile_text_color": "333333",
                 "profile_use_background_image": true,
                 "default_profile": false,
@@ -1250,45 +313,227 @@
             "coordinates": null,
             "place": null,
             "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Thu Jul 31 02:57:49 +0000 2014",
+                "id": 494678287319191550,
+                "id_str": "494678287319191552",
+                "text": "Okay seriously I've done this before but:\n\nYOU'RE means you are\nYOUR is possession like that is YOUR car\n\nCan you people please get it right",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2269257098,
+                    "id_str": "2269257098",
+                    "name": "Sarcastic Bitch",
+                    "screen_name": "xo_sarcasm",
+                    "location": "New England",
+                    "description": "One of the most sarcastic bitches you will ever meet ✌️",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 9262,
+                    "friends_count": 7060,
+                    "listed_count": 66,
+                    "created_at": "Mon Dec 30 18:26:43 +0000 2013",
+                    "favourites_count": 5271,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 11802,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/481766612128006144/om2e5-uE_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/481766612128006144/om2e5-uE_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269257098/1398351858",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 20,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "xo_sarcasm",
+                        "name": "Sarcastic Bitch",
+                        "id": 2269257098,
+                        "id_str": "2269257098",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010107063156740,
+            "id_str": "507010107063156738",
+            "text": "Deals : http://t.co/LgC7PLiVZ2 #71091 Capacitor Vision No Battery G1W-C Car Dash Camera DVR NT96650 Chip AR0330... http://t.co/hS57SNXVrS",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2695883010,
+                "id_str": "2695883010",
+                "name": "New Deals",
+                "screen_name": "New_Deals822",
+                "location": "USA",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 206,
+                "friends_count": 47,
+                "listed_count": 0,
+                "created_at": "Thu Jul 31 15:01:00 +0000 2014",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23603,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/494860707242848256/o3PA8qp0_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/494860707242848256/o3PA8qp0_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
             "retweet_count": 0,
             "favorite_count": 0,
             "entities": {
-                "hashtags": [
-                    {
-                        "text": "iPad",
-                        "indices": [
-                            59,
-                            64
-                        ]
-                    },
-                    {
-                        "text": "ipadgames",
-                        "indices": [
-                            105,
-                            115
-                        ]
-                    },
-                    {
-                        "text": "gameinsight",
-                        "indices": [
-                            117,
-                            129
-                        ]
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
                 "urls": [
                     {
-                        "url": "http://t.co/ZFLmrFjYtn",
-                        "expanded_url": "http://gigam.es/potw_Tribez",
-                        "display_url": "gigam.es/potw_Tribez",
+                        "url": "http://t.co/LgC7PLiVZ2",
+                        "expanded_url": "http://ift.tt/VYHLwS",
+                        "display_url": "ift.tt/VYHLwS",
                         "indices": [
-                            82,
-                            104
+                            8,
+                            30
                         ]
                     }
                 ],
-                "user_mentions": []
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 507010106874408960,
+                        "id_str": "507010106874408961",
+                        "indices": [
+                            115,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BwlDAYXIMAEMLfC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BwlDAYXIMAEMLfC.jpg",
+                        "url": "http://t.co/hS57SNXVrS",
+                        "display_url": "pic.twitter.com/hS57SNXVrS",
+                        "expanded_url": "http://twitter.com/New_Deals822/status/507010107063156738/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 300,
+                                "h": 230,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 300,
+                                "h": 230,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 300,
+                                "h": 230,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
             },
             "favorited": false,
             "retweeted": false,
@@ -1300,11 +545,11 @@
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:36 +0000 2014",
-            "id": 507008734569439200,
-            "id_str": "507008734569439232",
-            "text": "Precious #honeychild aka #Salem with the.pocahaunted #love #kitty #cute #precious #gay #cat… http://t.co/wDfSEvGlGF",
-            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010107050573800,
+            "id_str": "507010107050573824",
+            "text": "Idk tho i want a car",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "truncated": false,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -1312,12 +557,12 @@
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 333275711,
-                "id_str": "333275711",
-                "name": "Zach",
-                "screen_name": "AtomicGlimmer",
-                "location": "Sicklerville",
-                "description": "im perfect",
+                "id": 353430470,
+                "id_str": "353430470",
+                "name": "-",
+                "screen_name": "Young_Chapo_",
+                "location": "",
+                "description": "Not Interested.",
                 "url": null,
                 "entities": {
                     "description": {
@@ -1325,27 +570,27 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 156,
-                "friends_count": 685,
+                "followers_count": 402,
+                "friends_count": 389,
                 "listed_count": 0,
-                "created_at": "Mon Jul 11 08:26:45 +0000 2011",
-                "favourites_count": 228,
-                "utc_offset": -14400,
-                "time_zone": "Eastern Time (US & Canada)",
-                "geo_enabled": true,
+                "created_at": "Fri Aug 12 02:02:53 +0000 2011",
+                "favourites_count": 993,
+                "utc_offset": -28800,
+                "time_zone": "Alaska",
+                "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 2699,
+                "statuses_count": 8824,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
                 "profile_background_color": "131516",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/641558904/4on2cozqqipsv6npbrfg.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/641558904/4on2cozqqipsv6npbrfg.png",
                 "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000364870827/8b12648f5cd637ec463bba5eca5e47bd_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000364870827/8b12648f5cd637ec463bba5eca5e47bd_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/333275711/1353569998",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/506841367666892802/sXWKxSSz_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/506841367666892802/sXWKxSSz_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/353430470/1409691775",
                 "profile_link_color": "009999",
                 "profile_sidebar_border_color": "EEEEEE",
                 "profile_sidebar_fill_color": "EFEFEF",
@@ -1364,114 +609,46 @@
             "retweet_count": 0,
             "favorite_count": 0,
             "entities": {
-                "hashtags": [
-                    {
-                        "text": "honeychild",
-                        "indices": [
-                            9,
-                            20
-                        ]
-                    },
-                    {
-                        "text": "Salem",
-                        "indices": [
-                            25,
-                            31
-                        ]
-                    },
-                    {
-                        "text": "love",
-                        "indices": [
-                            53,
-                            58
-                        ]
-                    },
-                    {
-                        "text": "kitty",
-                        "indices": [
-                            59,
-                            65
-                        ]
-                    },
-                    {
-                        "text": "cute",
-                        "indices": [
-                            66,
-                            71
-                        ]
-                    },
-                    {
-                        "text": "precious",
-                        "indices": [
-                            72,
-                            81
-                        ]
-                    },
-                    {
-                        "text": "gay",
-                        "indices": [
-                            82,
-                            86
-                        ]
-                    },
-                    {
-                        "text": "cat",
-                        "indices": [
-                            87,
-                            91
-                        ]
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
-                "urls": [
-                    {
-                        "url": "http://t.co/wDfSEvGlGF",
-                        "expanded_url": "http://instagram.com/p/sd-vkdRdDy/",
-                        "display_url": "instagram.com/p/sd-vkdRdDy/",
-                        "indices": [
-                            93,
-                            115
-                        ]
-                    }
-                ],
+                "urls": [],
                 "user_mentions": []
             },
             "favorited": false,
             "retweeted": false,
-            "possibly_sensitive": false,
             "lang": "en"
         },
         {
             "metadata": {
-                "iso_language_code": "ja",
+                "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:36 +0000 2014",
-            "id": 507008734401265660,
-            "id_str": "507008734401265664",
-            "text": "@cat\n基本的に靴はサイズが合って安ければ入手するけどこの靴は女の子には不評。1000円だったんだって…。 http://t.co/tI0oNL6xwE",
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010106811486200,
+            "id_str": "507010106811486208",
+            "text": "@ivortossell except when it involves $60 for their car.",
+            "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
             "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 544850379,
-            "in_reply_to_user_id_str": "544850379",
-            "in_reply_to_screen_name": "cat",
+            "in_reply_to_status_id": 507007889421385700,
+            "in_reply_to_status_id_str": "507007889421385728",
+            "in_reply_to_user_id": 16085441,
+            "in_reply_to_user_id_str": "16085441",
+            "in_reply_to_screen_name": "ivortossell",
             "user": {
-                "id": 2552595426,
-                "id_str": "2552595426",
-                "name": "獅羽は東北勤務！",
-                "screen_name": "kowka11neB",
-                "location": "明日私は死ぬだろう",
-                "description": "819非公式なりきり 腐夢R18⚪︎公式RT× 詳しくはプロフで。 アイコンヘッダー頂き物。背後とは違う生き物。",
-                "url": "http://t.co/jVxXOqqZla",
+                "id": 89957371,
+                "id_str": "89957371",
+                "name": "Alex",
+                "screen_name": "smuncky",
+                "location": "Toronto",
+                "description": "Architecture. Photography. Travel. Electronic music. Leafs. Toronto.",
+                "url": "http://t.co/j7XzWcsadH",
                 "entities": {
                     "url": {
                         "urls": [
                             {
-                                "url": "http://t.co/jVxXOqqZla",
-                                "expanded_url": "http://twpf.jp/kowka11neB",
-                                "display_url": "twpf.jp/kowka11neB",
+                                "url": "http://t.co/j7XzWcsadH",
+                                "expanded_url": "http://www.flickr.com/smuncky",
+                                "display_url": "flickr.com/smuncky",
                                 "indices": [
                                     0,
                                     22
@@ -1484,181 +661,30 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 27,
-                "friends_count": 27,
-                "listed_count": 5,
-                "created_at": "Sat Jun 07 13:29:46 +0000 2014",
-                "favourites_count": 115,
-                "utc_offset": null,
-                "time_zone": null,
+                "followers_count": 391,
+                "friends_count": 569,
+                "listed_count": 27,
+                "created_at": "Sat Nov 14 15:30:12 +0000 2009",
+                "favourites_count": 1769,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 1648,
-                "lang": "ja",
+                "statuses_count": 13469,
+                "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/488989001978626048/5yG-qRIa_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/488989001978626048/5yG-qRIa_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2552595426/1402561856",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "cat",
-                        "name": "ねこ（レニウム）",
-                        "id": 544850379,
-                        "id_str": "544850379",
-                        "indices": [
-                            0,
-                            4
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 507008733226860540,
-                        "id_str": "507008733226860544",
-                        "indices": [
-                            55,
-                            77
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/BwlBwbICAAAy5bx.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/BwlBwbICAAAy5bx.jpg",
-                        "url": "http://t.co/tI0oNL6xwE",
-                        "display_url": "pic.twitter.com/tI0oNL6xwE",
-                        "expanded_url": "http://twitter.com/kowka11neB/status/507008734401265664/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "small": {
-                                "w": 340,
-                                "h": 453,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 768,
-                                "h": 1024,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 600,
-                                "h": 800,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "ja"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "ja",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:36 +0000 2014",
-            "id": 507008731582693400,
-            "id_str": "507008731582693376",
-            "text": "@nrk_cat え、ちょwww 責任重大すぎるw\nお客様の中にプロとかいないの(笑)！\nみどりのラグかわゆいよ～！とっとくべき！",
-            "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter for Android</a>",
-            "truncated": false,
-            "in_reply_to_status_id": 507007960539607040,
-            "in_reply_to_status_id_str": "507007960539607040",
-            "in_reply_to_user_id": 1605840630,
-            "in_reply_to_user_id_str": "1605840630",
-            "in_reply_to_screen_name": "nrk_cat",
-            "user": {
-                "id": 280426907,
-                "id_str": "280426907",
-                "name": "ユウリ",
-                "screen_name": "hasuinoyuri",
-                "location": "地獄界鳥取県Z市鳴苑高校音楽室指揮台横",
-                "description": "気を付けてくださいだいぶこじらせた腐女子です。ソルキャ(刻神、音神)、鬼徹(白鬼)、Free(怜渚、凛受)がアツいです！ワートリ、ワンパンも。CP→(http://t.co/YENCAZmiLH)。フォロー後交流がない方やCPの違う方はリムらせて頂く場合がございます。成人済・コスプレ・フォローお気軽に～。",
-                "url": "http://t.co/GFXiXz1tFj",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "http://t.co/GFXiXz1tFj",
-                                "expanded_url": "http://www.cosp.jp/prof.aspx?id=274789",
-                                "display_url": "cosp.jp/prof.aspx?id=2…",
-                                "indices": [
-                                    0,
-                                    22
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": [
-                            {
-                                "url": "http://t.co/YENCAZmiLH",
-                                "expanded_url": "http://twpf.jp/hasuinoyuri",
-                                "display_url": "twpf.jp/hasuinoyuri",
-                                "indices": [
-                                    75,
-                                    97
-                                ]
-                            }
-                        ]
-                    }
-                },
-                "protected": false,
-                "followers_count": 677,
-                "friends_count": 371,
-                "listed_count": 22,
-                "created_at": "Mon Apr 11 09:17:07 +0000 2011",
-                "favourites_count": 3421,
-                "utc_offset": -36000,
-                "time_zone": "Hawaii",
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 128293,
-                "lang": "ja",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "9AE4E8",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/506090401380315136/r9f6ExaU_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/506090401380315136/r9f6ExaU_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/280426907/1409496300",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "BDDCAD",
-                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/78232988/225606579_53ab54322d_o.JPG",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/78232988/225606579_53ab54322d_o.JPG",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/716564631/19541_669579611651_172006360_40000595_7103242_n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/716564631/19541_669579611651_172006360_40000595_7103242_n_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89957371/1351895193",
+                "profile_link_color": "120D00",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F7FCFF",
                 "profile_text_color": "333333",
                 "profile_use_background_image": true,
                 "default_profile": false,
@@ -1679,52 +705,959 @@
                 "urls": [],
                 "user_mentions": [
                     {
-                        "screen_name": "nrk_cat",
-                        "name": "ナリコ",
-                        "id": 1605840630,
-                        "id_str": "1605840630",
+                        "screen_name": "ivortossell",
+                        "name": "Ivor Tossell",
+                        "id": 16085441,
+                        "id_str": "16085441",
                         "indices": [
                             0,
-                            8
+                            12
                         ]
                     }
                 ]
             },
             "favorited": false,
             "retweeted": false,
-            "lang": "ja"
+            "lang": "en"
         },
         {
             "metadata": {
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:35 +0000 2014",
-            "id": 507008730006044700,
-            "id_str": "507008730006044673",
-            "text": "@EsotericCD @JohnEkdahl I'm stroking a hairless cat.",
-            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010105158959100,
+            "id_str": "507010105158959104",
+            "text": "SPECIAL OFFER: Bundle Of Joy Romper Suit Shaped Card - You'll receive; 1 Card Front Sheet 1 Card Back Sheet 1 Car… http://t.co/cBY3YYtygm",
+            "source": "<a href=\"http://www.scrapbookingmad.com\" rel=\"nofollow\">Scrapbookingmad</a>",
             "truncated": false,
-            "in_reply_to_status_id": 507006880489955300,
-            "in_reply_to_status_id_str": "507006880489955328",
-            "in_reply_to_user_id": 161163311,
-            "in_reply_to_user_id_str": "161163311",
-            "in_reply_to_screen_name": "EsotericCD",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "user": {
-                "id": 19084896,
-                "id_str": "19084896",
-                "name": "Rick Wilson",
-                "screen_name": "TheRickWilson",
-                "location": "Tallahassee, FL",
-                "description": "GOP Media Guy, Dad, Pilot, Hunter, Amateur Epistemologist, Cognitive Engineer, Cutter of Brush. Fake 45th President of the United States. #TeamWilson",
-                "url": "http://t.co/uA2YOX0lLI",
+                "id": 411055518,
+                "id_str": "411055518",
+                "name": "Sammy",
+                "screen_name": "Scrapbookingmad",
+                "location": "",
+                "description": "",
+                "url": "http://t.co/5sntMZPK",
                 "entities": {
                     "url": {
                         "urls": [
                             {
-                                "url": "http://t.co/uA2YOX0lLI",
-                                "expanded_url": "http://about.me/therickwilson",
-                                "display_url": "about.me/therickwilson",
+                                "url": "http://t.co/5sntMZPK",
+                                "expanded_url": "http://www.scrapbookingmad.com",
+                                "display_url": "scrapbookingmad.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 20,
+                "friends_count": 144,
+                "listed_count": 0,
+                "created_at": "Sat Nov 12 22:59:02 +0000 2011",
+                "favourites_count": 0,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8860,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2524120158/cmlprpgdvafl181u1t0e_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2524120158/cmlprpgdvafl181u1t0e_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/cBY3YYtygm",
+                        "expanded_url": "http://x3.tl/bzo3",
+                        "display_url": "x3.tl/bzo3",
+                        "indices": [
+                            115,
+                            137
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010105032716300,
+            "id_str": "507010105032716288",
+            "text": "RT @OneHallyu: [Update] Rise's surgery has been successfully completed after 9 hours.  http://t.co/ZCnDGaoa1i",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 407357757,
+                "id_str": "407357757",
+                "name": "#PrayForLadiesCode",
+                "screen_name": "hwngty",
+                "location": "tiffany's room ",
+                "description": "is it graduation day yet",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 235,
+                "friends_count": 248,
+                "listed_count": 3,
+                "created_at": "Tue Nov 08 00:00:24 +0000 2011",
+                "favourites_count": 16690,
+                "utc_offset": -21600,
+                "time_zone": "Mountain Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 26971,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360258524/9hqeis.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360258524/9hqeis.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/506617471734792192/rkD4CCkB_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/506617471734792192/rkD4CCkB_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/407357757/1407246956",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Wed Sep 03 03:00:59 +0000 2014",
+                "id": 507000272875307000,
+                "id_str": "507000272875307009",
+                "text": "[Update] Rise's surgery has been successfully completed after 9 hours.  http://t.co/ZCnDGaoa1i",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1396153610,
+                    "id_str": "1396153610",
+                    "name": "One Hallyu",
+                    "screen_name": "OneHallyu",
+                    "location": "",
+                    "description": "No.1 Asian Entertainment Forum at your service~",
+                    "url": "http://t.co/fWbTI7NpeV",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/fWbTI7NpeV",
+                                    "expanded_url": "http://onehallyu.com",
+                                    "display_url": "onehallyu.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1918,
+                    "friends_count": 25,
+                    "listed_count": 12,
+                    "created_at": "Thu May 02 03:19:13 +0000 2013",
+                    "favourites_count": 12,
+                    "utc_offset": 3600,
+                    "time_zone": "London",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1279,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "114C98",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446796497464483841/H4wp0mqq.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446796497464483841/H4wp0mqq.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/446796151325335554/8i59ZeeI_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/446796151325335554/8i59ZeeI_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396153610/1395359504",
+                    "profile_link_color": "800020",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 657,
+                "favorite_count": 108,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZCnDGaoa1i",
+                            "expanded_url": "http://bit.ly/lcupdates",
+                            "display_url": "bit.ly/lcupdates",
+                            "indices": [
+                                72,
+                                94
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 657,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/ZCnDGaoa1i",
+                        "expanded_url": "http://bit.ly/lcupdates",
+                        "display_url": "bit.ly/lcupdates",
+                        "indices": [
+                            87,
+                            109
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "OneHallyu",
+                        "name": "One Hallyu",
+                        "id": 1396153610,
+                        "id_str": "1396153610",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010104294928400,
+            "id_str": "507010104294928385",
+            "text": "I want a new car",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2445500746,
+                "id_str": "2445500746",
+                "name": "➰",
+                "screen_name": "shanice_gardner",
+                "location": "",
+                "description": "Instagram - ecinahs_rendrag",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 246,
+                "friends_count": 216,
+                "listed_count": 1,
+                "created_at": "Sat Mar 29 21:20:29 +0000 2014",
+                "favourites_count": 378,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7950,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484870839817740288/UFGbedVq_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484870839817740288/UFGbedVq_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2445500746/1407945282",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010103472820200,
+            "id_str": "507010103472820226",
+            "text": "RT @CommonDesiDude: desi parents say bye in the living room, bye at the door, and bye again while in the car with the window rolled down…",
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1534552130,
+                "id_str": "1534552130",
+                "name": "♡",
+                "screen_name": "Shahaili",
+                "location": "Canada",
+                "description": "♡",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 502,
+                "friends_count": 621,
+                "listed_count": 1,
+                "created_at": "Thu Jun 20 17:54:46 +0000 2013",
+                "favourites_count": 312,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5318,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/506838352843530240/N3xvL-Bm_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/506838352843530240/N3xvL-Bm_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534552130/1405790584",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue Sep 02 01:27:45 +0000 2014",
+                "id": 506614420890714100,
+                "id_str": "506614420890714112",
+                "text": "desi parents say bye in the living room, bye at the door, and bye again while in the car with the window rolled down…",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1623333739,
+                    "id_str": "1623333739",
+                    "name": "Common Desi Dude",
+                    "screen_name": "CommonDesiDude",
+                    "location": "",
+                    "description": "The Original Common Desi Dude Account",
+                    "url": "http://t.co/8RWfAY4efD",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/8RWfAY4efD",
+                                    "expanded_url": "http://ask.fm/commondesidude",
+                                    "display_url": "ask.fm/commondesidude",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8033,
+                    "friends_count": 293,
+                    "listed_count": 7,
+                    "created_at": "Fri Jul 26 16:15:49 +0000 2013",
+                    "favourites_count": 278,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1313,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/415977149863301120/_molThA6_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/415977149863301120/_molThA6_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623333739/1388011558",
+                    "profile_link_color": "457FD6",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 54,
+                "favorite_count": 143,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 54,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CommonDesiDude",
+                        "name": "Common Desi Dude",
+                        "id": 1623333739,
+                        "id_str": "1623333739",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:03 +0000 2014",
+            "id": 507010103036608500,
+            "id_str": "507010103036608512",
+            "text": "RT @Adversaurio: ¡Sí, señor, yo soy de rancho! http://t.co/5hCJeZOdJV",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 134957206,
+                "id_str": "134957206",
+                "name": "Swap It Out. ",
+                "screen_name": "Ous_car",
+                "location": "GDL, México. ",
+                "description": "Tengo 17 años, pero me veo de 18. Instagram: ous_car",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2204,
+                "friends_count": 159,
+                "listed_count": 13,
+                "created_at": "Mon Apr 19 23:26:01 +0000 2010",
+                "favourites_count": 34093,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3468,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000156305048/HeTtl9Y1.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000156305048/HeTtl9Y1.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/499038196928638977/ytYSOUbf_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/499038196928638977/ytYSOUbf_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/134957206/1405117848",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "created_at": "Wed Sep 03 03:39:33 +0000 2014",
+                "id": 507009979514376200,
+                "id_str": "507009979514376192",
+                "text": "¡Sí, señor, yo soy de rancho! http://t.co/5hCJeZOdJV",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2732989738,
+                    "id_str": "2732989738",
+                    "name": "AdverCharro.",
+                    "screen_name": "Adversaurio",
+                    "location": "Méjico.",
+                    "description": "No dejes que tu vida arruine tu Twitter. ❤️@Itzalalarala❤️",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 485,
+                    "friends_count": 233,
+                    "listed_count": 4,
+                    "created_at": "Mon Aug 04 03:07:07 +0000 2014",
+                    "favourites_count": 6000,
+                    "utc_offset": -18000,
+                    "time_zone": "Central Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 170,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502625110251954176/5EPaaY-F.jpeg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502625110251954176/5EPaaY-F.jpeg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/506221631614623744/yh4xuxow_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/506221631614623744/yh4xuxow_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2732989738/1408659498",
+                    "profile_link_color": "E08516",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 5,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "media": [
+                        {
+                            "id": 507009976276353000,
+                            "id_str": "507009976276353024",
+                            "indices": [
+                                30,
+                                52
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/BwlC4x2IAAAAlqc.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/BwlC4x2IAAAAlqc.jpg",
+                            "url": "http://t.co/5hCJeZOdJV",
+                            "display_url": "pic.twitter.com/5hCJeZOdJV",
+                            "expanded_url": "http://twitter.com/Adversaurio/status/507009979514376192/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 340,
+                                    "h": 402,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 500,
+                                    "h": 592,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 500,
+                                    "h": 592,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Adversaurio",
+                        "name": "AdverCharro.",
+                        "id": 2732989738,
+                        "id_str": "2732989738",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 507009976276353000,
+                        "id_str": "507009976276353024",
+                        "indices": [
+                            47,
+                            69
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BwlC4x2IAAAAlqc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BwlC4x2IAAAAlqc.jpg",
+                        "url": "http://t.co/5hCJeZOdJV",
+                        "display_url": "pic.twitter.com/5hCJeZOdJV",
+                        "expanded_url": "http://twitter.com/Adversaurio/status/507009979514376192/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 402,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 592,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 592,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 507009979514376200,
+                        "source_status_id_str": "507009979514376192"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:02 +0000 2014",
+            "id": 507010102096719900,
+            "id_str": "507010102096719872",
+            "text": "\"@eonline: Ladies' Code Singer EunB Dies After Korean Group Suffers Tragic Car Accident http://t.co/CHVoHidqW6\" 😢",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 187083091,
+                "id_str": "187083091",
+                "name": "Swannie Merro",
+                "screen_name": "swanmerro",
+                "location": "Las Piñas, Philippines",
+                "description": "Benildean|Paulinian|Music Lover|Sports Fanatic",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 213,
+                "friends_count": 507,
+                "listed_count": 1,
+                "created_at": "Sun Sep 05 05:59:20 +0000 2010",
+                "favourites_count": 1016,
+                "utc_offset": -28800,
+                "time_zone": "Alaska",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 14316,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "642D8B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3433548186/34b424693aee2e520746d924070e0bb8_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3433548186/34b424693aee2e520746d924070e0bb8_normal.jpeg",
+                "profile_link_color": "8C18D9",
+                "profile_sidebar_border_color": "65B0DA",
+                "profile_sidebar_fill_color": "7AC3EE",
+                "profile_text_color": "3D1957",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/CHVoHidqW6",
+                        "expanded_url": "http://eonli.ne/1q9ItDZ",
+                        "display_url": "eonli.ne/1q9ItDZ",
+                        "indices": [
+                            88,
+                            110
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "eonline",
+                        "name": "E! Online",
+                        "id": 2883841,
+                        "id_str": "2883841",
+                        "indices": [
+                            1,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:02 +0000 2014",
+            "id": 507010101375680500,
+            "id_str": "507010101375680513",
+            "text": "Stole my car RT @dstarwriter59: COME ON. RT @ChrisTheFlyest: Let's talk about PrimeTime on Covington Highway.",
+            "source": "<a href=\"http://tweetlogix.com\" rel=\"nofollow\">Tweetlogix</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 29639525,
+                "id_str": "29639525",
+                "name": "Good Luck, Quita",
+                "screen_name": "QuitaBnStuff",
+                "location": "Atlanta? YES! Atlanta!",
+                "description": "Tell PETA my sausage links are dragging on the floor #JayZ #RJB4ever #Lakers #KBeanB #ShounNando14 FOH DWIGHT HOWARD! #ChillConglomerate",
+                "url": "http://t.co/ptpRsU8mkO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/ptpRsU8mkO",
+                                "expanded_url": "http://www.postpoems.org/authors/honorao",
+                                "display_url": "postpoems.org/authors/honorao",
                                 "indices": [
                                     0,
                                     22
@@ -1737,28 +1670,28 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 16160,
-                "friends_count": 1552,
-                "listed_count": 767,
-                "created_at": "Fri Jan 16 20:50:17 +0000 2009",
-                "favourites_count": 3552,
-                "utc_offset": null,
-                "time_zone": null,
+                "followers_count": 426,
+                "friends_count": 170,
+                "listed_count": 10,
+                "created_at": "Wed Apr 08 04:21:34 +0000 2009",
+                "favourites_count": 1248,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
                 "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 124894,
+                "statuses_count": 107799,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "1A1B1F",
-                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/220716353/Firefox_Wallpaper.jpg",
-                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/220716353/Firefox_Wallpaper.jpg",
+                "profile_background_color": "B1CBE6",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000105485772/91958e395dca1fdafa0deaf0f4813fe0.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000105485772/91958e395dca1fdafa0deaf0f4813fe0.jpeg",
                 "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/476002674404376576/A4vjYxZJ_normal.png",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/476002674404376576/A4vjYxZJ_normal.png",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19084896/1408797128",
-                "profile_link_color": "A1882F",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/505503344405008385/TbABXwN7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/505503344405008385/TbABXwN7_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29639525/1381897241",
+                "profile_link_color": "3D474A",
                 "profile_sidebar_border_color": "000000",
                 "profile_sidebar_fill_color": "252429",
                 "profile_text_color": "666666",
@@ -1781,23 +1714,23 @@
                 "urls": [],
                 "user_mentions": [
                     {
-                        "screen_name": "EsotericCD",
-                        "name": "Jeff B@AoSHQ",
-                        "id": 161163311,
-                        "id_str": "161163311",
+                        "screen_name": "dstarwriter59",
+                        "name": "Rev. Glen de Decatúr",
+                        "id": 22408563,
+                        "id_str": "22408563",
                         "indices": [
-                            0,
-                            11
+                            16,
+                            30
                         ]
                     },
                     {
-                        "screen_name": "JohnEkdahl",
-                        "name": "John Ekdahl",
-                        "id": 19370031,
-                        "id_str": "19370031",
+                        "screen_name": "ChrisTheFlyest",
+                        "name": "Chippa Jones",
+                        "id": 24700526,
+                        "id_str": "24700526",
                         "indices": [
-                            12,
-                            23
+                            44,
+                            59
                         ]
                     }
                 ]
@@ -1811,11 +1744,11 @@
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "created_at": "Wed Sep 03 03:34:35 +0000 2014",
-            "id": 507008729947328500,
-            "id_str": "507008729947328513",
-            "text": "RT @dianabananax25: Sometimes all I want in life is to be a cat, all my life problems would go away",
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "created_at": "Wed Sep 03 03:40:02 +0000 2014",
+            "id": 507010101132017660,
+            "id_str": "507010101132017664",
+            "text": "http://t.co/gQTsR6hCyP 2003 MG TF SILVER.not mx5.mgf.z3",
+            "source": "<a href=\"http://socadviser.com\" rel=\"nofollow\">SocAdviser.com</a>",
             "truncated": false,
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
@@ -1823,12 +1756,12 @@
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 528746991,
-                "id_str": "528746991",
-                "name": "Allison Butler",
-                "screen_name": "allisonbutlerr",
+                "id": 1734356648,
+                "id_str": "1734356648",
+                "name": "SocAdviser.com",
+                "screen_name": "SocAdvisercom",
                 "location": "",
-                "description": "♒",
+                "description": "",
                 "url": null,
                 "entities": {
                     "description": {
@@ -1836,197 +1769,17 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 228,
-                "friends_count": 222,
-                "listed_count": 1,
-                "created_at": "Sun Mar 18 18:45:50 +0000 2012",
-                "favourites_count": 4109,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 2692,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/505168057678168064/-VTZevNy_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/505168057678168064/-VTZevNy_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/528746991/1371392863",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "created_at": "Wed Sep 03 03:15:26 +0000 2014",
-                "id": 507003909077237760,
-                "id_str": "507003909077237760",
-                "text": "Sometimes all I want in life is to be a cat, all my life problems would go away",
-                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-                "truncated": false,
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 154663028,
-                    "id_str": "154663028",
-                    "name": "Diana Moran",
-                    "screen_name": "dianabananax25",
-                    "location": "",
-                    "description": "c'est la vie ☀️",
-                    "url": null,
-                    "entities": {
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 477,
-                    "friends_count": 349,
-                    "listed_count": 0,
-                    "created_at": "Fri Jun 11 21:44:36 +0000 2010",
-                    "favourites_count": 10395,
-                    "utc_offset": -18000,
-                    "time_zone": "Quito",
-                    "geo_enabled": true,
-                    "verified": false,
-                    "statuses_count": 9260,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "799CA8",
-                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/212229439/xf57022340ff675dab2e6080c3145d99.png",
-                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/212229439/xf57022340ff675dab2e6080c3145d99.png",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/473282653932630016/p6r1xftC_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/473282653932630016/p6r1xftC_normal.jpeg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/154663028/1403922786",
-                    "profile_link_color": "80A1BD",
-                    "profile_sidebar_border_color": "EEEEEE",
-                    "profile_sidebar_fill_color": "F6F6F6",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "retweet_count": 1,
-                "favorite_count": 2,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "urls": [],
-                    "user_mentions": []
-                },
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "urls": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "dianabananax25",
-                        "name": "Diana Moran",
-                        "id": 154663028,
-                        "id_str": "154663028",
-                        "indices": [
-                            3,
-                            18
-                        ]
-                    }
-                ]
-            },
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "created_at": "Wed Sep 03 03:34:35 +0000 2014",
-            "id": 507008729339138050,
-            "id_str": "507008729339138048",
-            "text": "I swear Jacob is probably the only person that could cheer me up right now. or my cat but he's my angel👼😺",
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "truncated": false,
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 2491176815,
-                "id_str": "2491176815",
-                "name": "sydney",
-                "screen_name": "magconsave",
-                "location": "New York",
-                "description": "Dare to reach into the darkness to pull someone into the light. Remember strong people not only stand up for themselves, they stand up for others too",
-                "url": "https://t.co/DZOwO7P4CQ",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/DZOwO7P4CQ",
-                                "expanded_url": "https://twitter.com/austinmahone/status/463468983883034624",
-                                "display_url": "twitter.com/austinmahone/s…",
-                                "indices": [
-                                    0,
-                                    23
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 828,
-                "friends_count": 350,
-                "listed_count": 5,
-                "created_at": "Fri Apr 18 03:06:52 +0000 2014",
-                "favourites_count": 26314,
+                "followers_count": 104,
+                "friends_count": 20,
+                "listed_count": 0,
+                "created_at": "Fri Sep 06 07:34:11 +0000 2013",
+                "favourites_count": 0,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 13704,
-                "lang": "en",
+                "statuses_count": 30416,
+                "lang": "ru",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
@@ -2034,9 +1787,8 @@
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/506089792741052417/5nj5W7nq_normal.jpeg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/506089792741052417/5nj5W7nq_normal.jpeg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2491176815/1409499613",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000418298180/7489eb07d2b138db8d24c6c503b25903_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000418298180/7489eb07d2b138db8d24c6c503b25903_normal.jpeg",
                 "profile_link_color": "0084B4",
                 "profile_sidebar_border_color": "C0DEED",
                 "profile_sidebar_fill_color": "DDEEF6",
@@ -2057,8 +1809,477 @@
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "urls": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/gQTsR6hCyP",
+                        "expanded_url": "http://car-us.com/car/mg-tf/20627",
+                        "display_url": "car-us.com/car/mg-tf/20627",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ],
                 "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:02 +0000 2014",
+            "id": 507010101107240960,
+            "id_str": "507010101107240960",
+            "text": "RT @Datsyuk13: Please reach out and help Burnsville hockey players  injured in car accident \nhttps://t.co/cQivA1KOQx #burnsvillestrong",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 151742264,
+                "id_str": "151742264",
+                "name": "Jack Thomford",
+                "screen_name": "Jack_Thomford",
+                "location": "Minnetonka, MN",
+                "description": "I want people to be afraid of how much they love me. -MS",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 152,
+                "friends_count": 129,
+                "listed_count": 0,
+                "created_at": "Fri Jun 04 04:01:26 +0000 2010",
+                "favourites_count": 689,
+                "utc_offset": -21600,
+                "time_zone": "Mountain Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1778,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0687C7",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450437783241248768/iuOb329f.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450437783241248768/iuOb329f.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/500709202038255617/sESzv-GY_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/500709202038255617/sESzv-GY_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/151742264/1396227293",
+                "profile_link_color": "1710E6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Wed Sep 03 01:11:11 +0000 2014",
+                "id": 506972641173852160,
+                "id_str": "506972641173852160",
+                "text": "Please reach out and help Burnsville hockey players  injured in car accident \nhttps://t.co/cQivA1KOQx #burnsvillestrong",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 365823722,
+                    "id_str": "365823722",
+                    "name": "Pavel Datsyuk",
+                    "screen_name": "Datsyuk13",
+                    "location": "Detroit, USA ",
+                    "description": "Russian Professional Ice Hockey Player and alternate captain for the Detroit Red Wings of the NHL For Media & Corporate inquiries 1-305 900-8081 or @danmilstein",
+                    "url": "http://t.co/rVjxwwy8pb",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/rVjxwwy8pb",
+                                    "expanded_url": "http://www.datsyuk13.com",
+                                    "display_url": "datsyuk13.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 192578,
+                    "friends_count": 11,
+                    "listed_count": 1114,
+                    "created_at": "Thu Sep 01 02:24:11 +0000 2011",
+                    "favourites_count": 569,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 611,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000524772592/8357dc847ab25abd702d9ac4757dcd0a_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000524772592/8357dc847ab25abd702d9ac4757dcd0a_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 160,
+                "favorite_count": 166,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "burnsvillestrong",
+                            "indices": [
+                                102,
+                                119
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/cQivA1KOQx",
+                            "expanded_url": "https://m.facebook.com/BurnsvilleBlazeHockey?ref=bookmark",
+                            "display_url": "m.facebook.com/BurnsvilleBlaz…",
+                            "indices": [
+                                78,
+                                101
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 160,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "burnsvillestrong",
+                        "indices": [
+                            117,
+                            134
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/cQivA1KOQx",
+                        "expanded_url": "https://m.facebook.com/BurnsvilleBlazeHockey?ref=bookmark",
+                        "display_url": "m.facebook.com/BurnsvilleBlaz…",
+                        "indices": [
+                            93,
+                            116
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Datsyuk13",
+                        "name": "Pavel Datsyuk",
+                        "id": 365823722,
+                        "id_str": "365823722",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Sep 03 03:40:02 +0000 2014",
+            "id": 507010101103038460,
+            "id_str": "507010101103038464",
+            "text": "RT @oldmanbeaston: @jorr2727 @jaymohr37 @manuelingardena wouldn't even make a good car thief, you can't Hotwire a car with a pipe wrench",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2592270948,
+                "id_str": "2592270948",
+                "name": "Jonathan Troy",
+                "screen_name": "JohnnyInDetroit",
+                "location": "Detroit, MI",
+                "description": "College undergrad who loves sports, video games and lounging around and pretty much doing nothing while pursuing my Bachelor's Degree.",
+                "url": "http://t.co/02WKhW5AG9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/02WKhW5AG9",
+                                "expanded_url": "http://www.facebook.com/jonathan.troy84",
+                                "display_url": "facebook.com/jonathan.troy84",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 37,
+                "friends_count": 12,
+                "listed_count": 0,
+                "created_at": "Sat Jun 28 02:04:19 +0000 2014",
+                "favourites_count": 1004,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 657,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/482708930338910208/L_mHJkIJ_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/482708930338910208/L_mHJkIJ_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2592270948/1407709126",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue Sep 02 19:04:10 +0000 2014",
+                "id": 506880280800808960,
+                "id_str": "506880280800808961",
+                "text": "@jorr2727 @jaymohr37 @manuelingardena wouldn't even make a good car thief, you can't Hotwire a car with a pipe wrench",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": 506879764045774850,
+                "in_reply_to_status_id_str": "506879764045774848",
+                "in_reply_to_user_id": 1475471814,
+                "in_reply_to_user_id_str": "1475471814",
+                "in_reply_to_screen_name": "jorr2727",
+                "user": {
+                    "id": 372556419,
+                    "id_str": "372556419",
+                    "name": "OldManBeaston ",
+                    "screen_name": "oldmanbeaston",
+                    "location": "Greenbrier Ar.",
+                    "description": "married 22 years, truckdriver , avid cyclist ,pickup basketball player, and home cook. Blues music fan, MOHRRIOR, Cardinals, PGA, Steelers, Thunder",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 401,
+                    "friends_count": 394,
+                    "listed_count": 10,
+                    "created_at": "Tue Sep 13 00:14:59 +0000 2011",
+                    "favourites_count": 16904,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 9193,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/488517899644960768/QOQE0Tc7_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/488517899644960768/QOQE0Tc7_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/372556419/1402931641",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 2,
+                "favorite_count": 3,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "jorr2727",
+                            "name": "NoID_Justin",
+                            "id": 1475471814,
+                            "id_str": "1475471814",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        },
+                        {
+                            "screen_name": "jaymohr37",
+                            "name": "Jay Mohr",
+                            "id": 52757166,
+                            "id_str": "52757166",
+                            "indices": [
+                                10,
+                                20
+                            ]
+                        },
+                        {
+                            "screen_name": "manuelingardena",
+                            "name": "Manuel From Gardena",
+                            "id": 2735996547,
+                            "id_str": "2735996547",
+                            "indices": [
+                                21,
+                                37
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "oldmanbeaston",
+                        "name": "OldManBeaston ",
+                        "id": 372556419,
+                        "id_str": "372556419",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "jorr2727",
+                        "name": "NoID_Justin",
+                        "id": 1475471814,
+                        "id_str": "1475471814",
+                        "indices": [
+                            19,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "jaymohr37",
+                        "name": "Jay Mohr",
+                        "id": 52757166,
+                        "id_str": "52757166",
+                        "indices": [
+                            29,
+                            39
+                        ]
+                    },
+                    {
+                        "screen_name": "manuelingardena",
+                        "name": "Manuel From Gardena",
+                        "id": 2735996547,
+                        "id_str": "2735996547",
+                        "indices": [
+                            40,
+                            56
+                        ]
+                    }
+                ]
             },
             "favorited": false,
             "retweeted": false,
@@ -2066,12 +2287,12 @@
         }
     ],
     "search_metadata": {
-        "completed_in": 0.059,
-        "max_id": 507008749685309440,
-        "max_id_str": "507008749685309440",
-        "next_results": "?max_id=507008729339138047&q=cat&include_entities=1",
-        "query": "cat",
-        "refresh_url": "?since_id=507008749685309440&q=cat&include_entities=1",
+        "completed_in": 0.036,
+        "max_id": 507010107834896400,
+        "max_id_str": "507010107834896384",
+        "next_results": "?max_id=507010101103038463&q=car&include_entities=1",
+        "query": "car",
+        "refresh_url": "?since_id=507010107834896384&q=car&include_entities=1",
         "count": 15,
         "since_id": 0,
         "since_id_str": "0"

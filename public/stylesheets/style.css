@@ -13,7 +13,7 @@ a {
   height: 100%;
   z-index: 0;
   opacity: 0.7;
-  background: #f62459;
+  background: #fff;
   background-size: cover;
 }
 .nodeMap {
@@ -26,7 +26,7 @@ a {
   right: 10px;
   font-family: 'Helvetica';
   font-size: 7em;
-  color: #fff;
+  color: #414143;
   font-weight: 100;
   opacity: 1;
   z-index: 0;
@@ -47,7 +47,7 @@ ul {
 .bubble {
   width: 50px;
   height: 50px;
-  border: 1px solid #e4f1fe;
+  border: 1px solid #414143;
   border-radius: 50%;
   display: block;
   z-index: 5;
@@ -68,7 +68,7 @@ ul {
   top: 0px;
   z-index: 10;
   border-radius: 50%;
-  background: #e4f1fe;
+  background: #414143;
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition: all 0.2s 0 ease-in-out;
@@ -88,7 +88,7 @@ ul {
 .outerbubble {
   position: absolute;
   margin: 0 auto;
-  background: #e4f1fe;
+  background: #fff;
   width: 200px;
   min-height: 150px;
   top: 0px;
@@ -96,34 +96,13 @@ ul {
   opacity: 0;
   z-index: 9999;
   pointer-events: none;
+  border: 1px solid #dadfe1;
   text-align: center;
   -webkit-transition: all 0.5s 0 ease-in-out;
   -moz-transition: all 0.5s 0s ease-in-out;
   -ms-transition: all 0.5s 0 ease-in-out;
   -o-transition: all 0.5s 0 ease-in-out;
   transition: all 0.5s 0 ease-in-out;
-}
-.outerbubble:after,
-.outerbubble:before {
-  right: 100%;
-  top: 30px;
-  border: solid transparent;
-  content: " ";
-  height: 0;
-  width: 0;
-  position: absolute;
-  pointer-events: none;
-}
-.outerbubble:after {
-  border-color: rgba(228,241,254,0);
-  border-right-color: #e4f1fe;
-  border-width: 15px;
-  margin-top: -15px;
-}
-.outerbubble:before {
-  border-right-color: #dadfe1;
-  border-width: 16px;
-  margin-top: -16px;
 }
 .outerbubble img {
   margin: 0 auto;
@@ -151,9 +130,9 @@ ul {
   width: 500px;
   height: 30px;
   border: none;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #414143;
   border-radius: 2px;
-  color: #fff;
+  color: #414143;
   font-size: 1em;
 }
 .search:focus {
@@ -163,7 +142,7 @@ ul {
   background: none;
   width: 100px;
   min-height: 20px;
-  color: #fff;
+  color: #414143;
   font-size: 0.7em;
   margin-left: 20px;
   border: none;

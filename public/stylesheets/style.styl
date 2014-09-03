@@ -14,7 +14,7 @@ a
   height:100%
   z-index:0
   opacity:0.7
-  background:#F62459
+  background:white
   background-size:cover
   
 .nodeMap
@@ -27,7 +27,7 @@ a
   right:10px
   font-family:'Helvetica'
   font-size:7em
-  color:white
+  color:#414143
   font-weight:100
   opacity:1
   z-index:0
@@ -50,7 +50,7 @@ ul
 .bubble
   width:50px
   height:50px
-  border:1px solid rgba(228,241,254,1)
+  border:1px solid rgba(65,65,67,1)
   border-radius:50%
   display:block
   z-index:5
@@ -74,7 +74,7 @@ ul
   z-index:10
   border-radius:50%
   //background:rgba(209,238,252,0.8)
-  background:rgba(228,241,254,1)
+  background:rgba(65,65,67,1)
 
   -webkit-transform:scale(0)
   transform:scale(0)
@@ -96,7 +96,7 @@ ul
 .outerbubble
   position:absolute
   margin:0 auto
-  background:#E4F1FE
+  background:white
   width:200px
   min-height:150px
   top:0px
@@ -104,7 +104,7 @@ ul
   opacity:0
   z-index:9999
   pointer-events:none
-  //border: 1px solid #DADFE1
+  border: 1px solid #DADFE1
   text-align:center
 
   -webkit-transition: all 0.5s 0 ease-in-out;
@@ -113,29 +113,6 @@ ul
   -o-transition: all 0.5s 0 ease-in-out;
   transition: all 0.5s 0 ease-in-out;
 
-.outerbubble:after, .outerbubble:before {
-  right: 100%;
-  top: 30px;
-  border: solid transparent;
-  content: " ";
-  height: 0;
-  width: 0;
-  position: absolute;
-  pointer-events: none;
-}
-
-.outerbubble:after {
-  border-color: rgba(228, 241, 254, 0);
-  border-right-color:#E4F1FE;
-  border-width: 15px;
-  margin-top: -15px;
-}
-.outerbubble:before {
-  //border-color: rgba(123, 173, 254, 0);
-  border-right-color:#DADFE1;
-  border-width: 16px;
-  margin-top: -16px;
-}
 .outerbubble img
   margin:0 auto
   width:150px
@@ -162,9 +139,9 @@ ul
   width:500px
   height:30px
   border:none
-  border-bottom:1px solid white
+  border-bottom:1px solid #414143
   border-radius:2px
-  color:white
+  color:#414143
   font-size:1em
 .search:focus
   outline:none
@@ -172,7 +149,7 @@ ul
   background:none
   width:100px
   min-height:20px
-  color:white
+  color:#414143
   font-size:0.7em
   margin-left:20px
   border:none
