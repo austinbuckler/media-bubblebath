@@ -1,5 +1,7 @@
 body
-  padding: 50px
+  padding: 0px
+  min-width:1900px;
+  height:100%
   font: 19px "Lucida Grande", Helvetica, Arial, sans-serif
 
 
@@ -23,8 +25,8 @@ a
 
 #title
   position:fixed
-  top:10px
-  right:10px
+  bottom:0px
+  left:20px
   font-family:'Helvetica'
   font-size:7em
   color:#414143
@@ -36,6 +38,8 @@ a
 
 ul
   list-style:none
+  float:left
+  padding-left:200px
 
   -webkit-animation-name: moveUp;
   -webkit-animation-iteration-count: 1;
@@ -46,7 +50,9 @@ ul
   animation-iteration-count: 1;
   animation-timing-function: ease-in-out;
   animation-duration: 1s;
-
+  
+.no-left
+  padding-left:0
 .bubble
   width:50px
   height:50px
@@ -65,6 +71,13 @@ ul
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   animation-duration: 1s;
+  
+  i
+    position:absolute
+    z-index:9
+    left:32%
+    top:32%
+    color:black
 
 .innerbubble
   width:50px
@@ -88,6 +101,9 @@ ul
 .bubble:hover .innerbubble
   -webkit-transform:scale(0.9)
   transform:scale(0.9)
+
+.bubble:hover i
+  color:white
 
 .bubble:hover .outerbubble
   opacity:1
@@ -121,9 +137,9 @@ ul
 .outerbubble p
   color:#6C7A89
   width:180px
-  line-height:1px
+  line-height:1em
   white-break:normal
-  font-size:1em
+  font-size:0.7em
   padding:10px
   padding-top:0px
   padding-bottom:2px

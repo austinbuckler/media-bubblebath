@@ -4,25 +4,66 @@ block content
   div.preloader
     img(src="loader.gif" alt="preloader")
 
-
-  - var n = 0
-  - var i = 0 
+  - var i = 0
+  - var j = 0 
   - var k = 0
+  - var l = 0
+  - var m = 0
+  - var n = 0
+  - var o = 0
+  - var p = 0
+  - var q = 0
+  - var r = 0
 
   #bg-overlay
-
   #title 
     p= searchTerm
 
-  //- p= TwitterData.statuses[0].user.name
-  ul
-    while n < 8
-      a(href= InstagramData[n++].link target="_blank")
+  div.scroll
+    ul.no-left
+      while i < 3
+        a(href= InstagramData[i++].link target="_blank")
+          li.bubble
+            i.fa.fa-instagram
+            div.innerbubble
+            
+            div.outerbubble
+              img(src= InstagramData[j++].images.low_resolution.url)
+    ul
+      while k < 3
+        a(href= "https://500px.com" + FiveData.photos[k++].url target="_blank")
+          li.bubble
+            i.fa.fa-camera.fa-1x
+            div.innerbubble
+
+            div.outerbubble
+              img(src= FiveData.photos[l++].images[0].url)
+    ul
+      while o < 3
+        a(href= "https://youtube.com/watch?v=" + YoutubeData.items[o++].id  target="_blank")
+          li.bubble
+            i.fa.fa-youtube
+            div.innerbubble
+
+            div.outerbubble
+              img(src= YoutubeData.items[p++].thumbnail.hqDefault)
+    ul
+      while q < 3
+        a(href= "https://twitter.com/" + TwitterData.statuses[r++].user.screen_name + "/status/" + TwitterData.statuses[r++].id  target="_blank")
+          li.bubble
+            i.fa.fa-twitter
+            div.innerbubble
+
+            div.outerbubble
+              p= TwitterData.statuses[q++].text
+    ul
+      a(href= ColorData[0].url target="_blank")
         li.bubble
+          i.fa.fa-eyedropper.fa-1x
           div.innerbubble
-          
+
           div.outerbubble
-            img(src= InstagramData[i++].images.low_resolution.url)
+            img(src= ColorData[0].imageUrl)
 
                 
   form(method="post", action="/" id="target").form
@@ -33,4 +74,5 @@ block content
     $('#target').submit(function( event ) {
       $('.preloader').css('opacity', '1');
     });
+
 
